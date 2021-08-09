@@ -5,3 +5,5 @@ There are two files in this repository.
 	2. COVID_19_NURSING_HOME_DATASET3F5_v2.csv
 The first is a Jupyter Notebook which takes the data given in the csv file, performs an ETL process, and builds machine learning models for prediction. The data was provided by Centers for Medicare and Medicaid.
 
+## Acknowledgements
+The authors would like to thank our colleagues for their support and assistance while writing this paper. There are too many to mention but the following individuals, in particular, contributed a lot of their technical and analytic insights while writing this paper: Gene Grabowski, Timo Kettunen, Deva Kumar, John Stultz, and Jonathan Walker. Our partners at Carnegie Mellon University’s Heinz College (Rema Padman, Alexandra Allen, Anzhi Mou, Zhaoyu Qiao, Harvir Singh Virk, Xiaoyu Zhu) showed us innovative, influential and inspiring work with Python and SAS Viya that served as the foundation for some of the topics in this paper. In addition, as always, Kim Andrews for her tireless efforts with all things SAS 
