@@ -1,533 +1,533 @@
 CALL_CENTER_ID,ESCALATED,DAILY_CALLS,MONTHLY_CALLS,CALL_TARGET,REASON,MONTHS_CUSTOMER,NEGATIVE_RATING,DAYS_PROD_OUT_OF_SERVICE,PRODUCT_AGE,CALL_INQUIRIES,NUM_CALLERS,CALL_TIME,PRODUCT_TYPE,RECOMMENDATION,Sentiment
-215458,0,214,909,1217,ProdFailure,3,0,0,221.515426,2,26,34.88554143,Server,So there is no way for me to plug it in here in the US unless I go by a converter.,0
-954367,0,214,445,809,,,,,,,,37.82721876,,"Good case, Excellent value.",1
-559293,0,214,494,694,ProdFailure,25,0,0,314.6389579,2,32,35.98208365,Other,Great for the jawbone.,1
-289495,0,214,643,993,ProdGlitch,18,0,0,627.7023895,1,23,20.68871482,Laptop,Tied to charger for conversations lasting more than 45 minutes.MAJOR PROBLEMS!!,0
-123218,0,214,922,1337,ProdFailure,11,0,0,81.44638031,3,15,41.39546183,Other,The mic is great.,1
-232875,0,214,72,247,ProdFailure,,0,0,62.26356587,2,18,41.57670052,Other,I have to jiggle the plug to get it to line up right to get decent volume.,0
-387415,0,214,416,1034,ProdGlitch,6,0,0,122.1533442,0,15,31.61467953,Other,"If you have several dozen or several hundred contacts, then imagine the fun of sending each of them one by one.",0
-536701,0,214,701,948,ProdFailure,4,0,0,109.780321,1,29,35.63050485,Other,If you are Razr owner...you must have this!,1
-502935,0,214,1431,1850,ProdGlitch,7,0,0,314.9842869,0,17,43.10300163,Desktop,"Needless to say, I wasted my money.",0
-425451,0,214,1280,1678,ProdFailure,6,0,0,180.4173542,0,38,17.49570049,Laptop,What a waste of money and time!.,0
-435974,1,214,951,1323,ProdFailure,7,1,5,206.1276648,1,18,36.23566539,Software,And the sound quality is great.,1
-802190,0,215,1007,1469,ProdGlitch,11,0,0,153.2238882,1,23,34.96596275,Laptop,He was very impressed when going from the original battery to the extended battery.,1
-246739,1,215,840,1157,ProdFailure,10,,1,122.2897915,1,30,49.37972914,Laptop,If the two were seperated by a mere 5+ ft I started to notice excessive static and garbled sound from the headset.,0
-792710,0,215,95,308,ProdFailure,,0,0,58.11746362,2,19,42.49201034,Other,Very good quality though,1
-687900,0,215,1077,1605,ProdFailure,16,0,0,195.48568,0,25,32.37876814,Desktop,"The design is very odd, as the ear ""clip"" is not very comfortable at all.",0
-17809,0,215,1107,1780,ProdFailure,6,0,0,212.6040797,4,24,43.3108563,Software,Highly recommend for any one who has a blue tooth phone.,1
-495017,0,215,1416,1842,ProdGlitch,8,0,0,311.4261279,0,16,44.59015523,Desktop,I advise EVERYONE DO NOT BE FOOLED!,0
-502153,0,215,259,473,ProdFailure,1,,,305.8497165,,25,36.60061306,Other,So Far So Good!.,1
-105784,0,215,1293,2847,ProdGlitch,3,0,0,199.2195955,0,15,30.40625943,Desktop,Works great!.,1
-605738,0,215,1358,1869,ProdFailure,18,0,0,227.3474864,1,24,42.66067749,Laptop,It clicks into place in a way that makes you wonder how long that mechanism would last.,0
-36009,0,215,969,1432,ProdFailure,20,0,0,173.3416649,0,25,39.85872689,Laptop,"I went on Motorola's website and followed all directions, but could not get it to pair again.",0
-616862,0,215,1254,2005,ProdGlitch,13,0,0,205.2783646,0,22,36.89339399,Laptop,I bought this to use with my Kindle Fire and absolutely loved it!,1
-213022,0,215,900,1115,ProdFailure,24,0,0,243.5,1,27,,Other,The commercials are the most misleading.,0
-159891,0,215,188,425,ProdFailure,27,0,0,304.3666667,,13,,Other,I have yet to run this new battery below two bars and that's three days without charging.,1
-680364,0,215,1537,1910,ProdFailure,10,,,105.359931,0,23,31.79238783,Laptop,I bought it for my mother and she had a problem with the battery.,0
-205917,0,215,716,966,ProdGlitch,13,0,0,135.9405415,0,13,37.87247372,Software,Great Pocket PC / phone combination.,1
-362024,0,215,305,533,ProdFailure,1,,,319.7808023,,25,33.44900986,Other,I've owned this phone for 7 months now and can say that it's the best mobile phone I've had.,1
-383581,0,215,474,786,,,,,,,,38.46833167,,I didn't think that the instructions provided were helpful to me.,0
-609524,0,215,943,1429,ProdFailure,22,1,0,170.2049996,0,25,39.56664624,Laptop,People couldnt hear me talk and I had to pull out the earphone and talk on the phone.,0
-171274,0,215,903,1037,ProdFailure,2,0,0,128.6427857,0,20,34.28267592,Laptop,Doesn't hold charge.,0
-569570,0,215,353,788,ProdGlitch,25,0,0,261.8666667,1,7,,Other,"This is a simple little phone to use, but the breakage is unacceptible.",0
-669905,0,215,101,756,ProdFailure,,0,0,247.8139714,0,22,39.14851242,Software,This product is ideal for people like me whose ears are very sensitive.,1
-708733,0,215,673,865,ProdFailure,5,,,158.6407067,,15,37.75484259,Software,It is unusable in a moving car at freeway speed.,0
-204162,0,215,586,908,ProdFailure,17,0,0,196.8087927,1,22,31.69796036,Other,I have two more years left in this contract and I hate this phone.,0
-254244,1,216,1442,1907,ProdFailure,0,1,4,313.4273217,2,18,37.97135495,Desktop,Car charger as well as AC charger are included to make sure you never run out of juice.Highy recommended,1
-599749,0,216,300,513,ProdFailure,0,,,312.1997839,,25,35.37968123,Other,You need at least 3 mins to get to your phone book from the time you first turn on the phone.Battery life is short,0
-472062,0,216,454,756,ProdFailure,2,0,1,230.2422347,0,11,33.45738088,Software,It has kept up very well.,1
-697023,0,216,1056,1554,ProdFailure,16,0,0,193.0488032,0,25,33.60060846,Desktop,Poor Talk Time Performance.,0
-824603,0,216,771,1854,,11,0,0,358.4284243,0,17,33.16743122,Other,The case is great and works fine with the 680.,1
-976058,0,216,367,683,ProdFailure,11,0,2,121.4942487,0,22,41.13829939,Software,worthless product.,0
-57468,0,216,1057,1390,ProdFailure,11,0,2,213.0345218,0,24,40.9030584,Software,"It has a great camera thats 2MP, and the pics are nice and clear with great picture quality.",1
-736473,0,216,617,1090,ProdFailure,14,0,2,267.8877899,0,35,26.09217153,Laptop,I was not impressed by this product.,0
-305153,0,216,,659,ProdGlitch,8,0,0,111.0680978,1,5,19.42908427,Software,Nice headset priced right.,1
-835418,0,216,708,965,ProdGlitch,13,0,0,136.3971417,0,14,37.58053042,Software,I only hear garbage for audio.,0
-46207,0,216,411,654,ProdFailure,25,0,0,303.2340527,3,32,35.24732771,Other,Excellent bluetooth headset.,1
-110595,0,216,1526,1956,ProdFailure,14,,,127.7781102,0,24,29.15307149,Laptop,It has all the features I want,1
-434806,0,216,1063,1473,ProdGlitch,,,,,,,39.13764463,,Who in their right mind is gonna buy this battery?.,0
-243270,0,216,667,1052,ProdGlitch,13,0,0,145.9353838,0,14,37.11491559,Software,AFTER ARGUING WITH VERIZON REGARDING THE DROPPED CALLS WE RETURNED THE PHONES AFTER TWO DAYS.,0
-974120,0,216,592,981,ProdGlitch,18,0,0,626.7713928,1,23,21.24168423,Laptop,This case seems well made.,1
-896664,0,216,1089,1427,ProdGlitch,9,0,0,162.446914,0,23,33.41977874,Laptop,Disappointed with battery.,0
-572515,0,216,,542,ProdFailure,,0,1,303.4333333,0,19,,Other,Not loud enough and doesn't turn on like it should.,0
-579808,1,216,1549,,ProdFailure,,2,4,165.60083,0,43,38.01491727,Server,good protection and does not make phone too bulky.,1
-106296,0,216,434,687,ProdFailure,11,0,1,121.950991,1,22,40.91647738,Software,A usable keyboard actually turns a PDA into a real-world useful machine instead of just a neat gadget.,1
-920936,0,216,939,1477,ProdFailure,23,0,0,156.6673122,0,25,40.19063608,Laptop,This phone is pretty sturdy and I've never had any large problems with it.,1
-529066,0,216,944,1359,ProdFailure,,0,0,205.0168354,0,20,26.80094617,Laptop,I love this thing!,1
-382124,0,217,583,784,ProdFailure,5,0,0,104.1747704,0,16,38.18843548,,Everything about it is fine and reasonable for the price i.e.,1
-684247,0,217,568,783,ProdFailure,10,1,0,70.69107272,3,28,36.61054006,Desktop,VERY DISAPPOINTED.,0
-198664,0,217,702,1863,,11,0,0,356.886499,1,16,30.18400134,Other,I even dropped this phone into a stream and it was submerged for 15 seconds and it still works great!,1
-514816,0,217,625,965,ProdGlitch,18,0,1,615.1333732,0,24,21.9726752,Laptop,I have been very happy with the 510 and have had NO complaints from any one regarding my sound quality on their en,1
-313224,0,217,86,755,ProdFailure,,0,0,257.1207218,0,21,38.73921891,Software,The buttons for on and off are bad.,0
-22513,0,217,607,145,ProdFailure,5,,,62.85635695,1,17,40.3158193,Other,Essentially you can forget Microsoft's tech support.,0
-392716,0,217,292,538,ProdFailure,0,,,300.6792922,,24,35.69801744,Other,"I really recommend this faceplates since it looks very nice, elegant and cool.",1
-775159,0,217,792,967,ProdFailure,5,0,0,64.50842359,6,24,38.07896313,Desktop,These headphones were a great find - and I think they are perhaps the best purchase I've made in the last several,1
-759856,0,217,456,670,ProdFailure,25,0,0,293.7620767,1,32,34.28537258,Other,Buy a different phone - but not this.,0
-662362,0,217,247,483,ProdFailure,0,,,309.0284455,,24,33.8772643,Other,You have to hold the phone at a particular angle for the other party to hear you clearly.,0
-72619,0,217,295,539,ProdFailure,14,0,0,185.6820797,1,19,37.75154584,Laptop,The one big drawback of the MP3 player is that the buttons on the phone's front cover that let you pause and skip,0
-337153,1,217,923,1687,,13,2,5,249.2427629,,24,29.3690264,Desktop,"A week later after I activated it, it suddenly died.",0
-504841,0,217,690,980,ProdFailure,2,,,232.0666667,5,24,,Desktop,It feels more comfortable than most headsets because I wear glasses and that gets in the way sometimes.,1
-586171,0,217,930,1404,ProdGlitch,5,0,0,166.1776578,0,32,32.77507936,Laptop,Great for iPODs too.,1
-108875,0,217,938,1472,ProdFailure,22,0,0,153.6845963,0,25,39.53395424,Laptop,This device is great in several situations:1.),1
-818383,0,217,470,716,ProdFailure,10,0,0,177.6020656,1,41,37.12536175,Laptop,Mic Doesn't work.,0
-941332,0,217,456,681,ProdFailure,5,0,0,166.8710357,1,27,36.40831543,Software,"Even in my BMW 3 series which is fairly quiet, I have trouble hearing what the other person is saying.",0
-352424,0,217,206,520,ProdFailure,26,0,2,199.9854317,0,25,27.11768955,Other,Great choice!,1
-548483,0,217,916,1261,ProdGlitch,10,0,0,131.875354,1,23,30.96129202,Desktop,Nice docking station for home or work.,1
-102213,0,217,599,941,ProdFailure,0,0,0,154.5525474,1,21,34.7717086,Software,This is a beautiful phone.,1
-697300,0,217,883,1395,ProdFailure,11,0,0,89.83955821,3,14,39.09887429,Other,Love this product.,1
-361096,0,217,1288,1729,ProdFailure,4,0,0,165.3102818,0,37,20.3428108,Laptop,Do Not Buy for D807...wrongly advertised for D807.,0
-102120,0,217,721,934,ProdFailure,2,0,0,115.5294894,1,29,33.45667038,Other,This is a great little item.,1
-836500,0,217,1885,2342,ProdFailure,0,0,0,301.5210741,0,26,37.33952006,Laptop,"I love this phone , It is very handy and has a lot of features .",1
-883282,1,217,249,922,ProdFailure,26,0,6,238.3696373,1,20,16.39716087,Other,I purchased this and within 2 days it was no longer working!!!!!!!!!,0
-326733,0,217,1873,2305,ProdFailure,2,0,0,270.47904,0,27,38.99923204,Laptop,I wear it everyday and it holds up very well.,1
-962056,1,218,210,450,,20,0,0,256.7,1,19,,Laptop,Not a good bargain.,0
-499184,0,218,323,496,ProdGlitch,3,1,,115.1302076,,10,26.92602147,Server,"Well packaged, arrived on time, and works as intended.",1
-829094,0,218,481,801,ProdFailure,13,0,0,111.9986308,1,9,4.142703972,Other,The battery runs down quickly.,0
-13355,0,218,900,1223,ProdFailure,3,0,0,212.6954676,1,26,34.84691939,Server,"This item worked great, but it broke after 6 months of use.",0
-182955,0,218,800,985,ProdFailure,5,0,0,73.31793013,7,24,37.13828397,Desktop,The headsets are easy to use and everyone loves them.,1
-866111,0,218,,255,ProdFailure,8,0,0,114.5417511,1,19,21.82563105,Laptop,This phone works great.,1
-687755,0,218,828,1147,ProdFailure,,0,0,190.0874448,1,24,40.74821176,Other,The construction of the headsets is poor.,0
-675077,0,218,673,990,ProdFailure,,2,1,245.0877745,1,14,41.56766275,Other,Product was excellent and works better than the verizon one and Boy was it cheaper!,1
-293361,0,218,,603,ProdFailure,,0,1,300.8414288,0,18,39.41913658,Other,The phone loads super!,1
-921907,0,218,481,703,ProdFailure,2,0,0,227.9862791,0,12,36.0618164,Software,"For a product that costs as much as this one does, I expect it to work far better and with greater ease than this",0
-406990,1,218,997,1280,ProdGlitch,15,1,2,286.1,3,26,,Laptop,Made very sturdy.,1
-171836,0,218,1072,1612,ProdFailure,15,0,0,187.2974769,0,26,31.55694874,Desktop,Worked great!.,1
-636407,0,218,967,1236,ProdFailure,3,0,0,218.7303331,2,27,35.87449455,Server,The ear buds only play music in one ear.,0
-357483,0,218,1338,1668,ProdFailure,6,0,0,169.7671445,0,37,20.05952718,Laptop,Dont waste your money...,0
-60661,0,218,415,715,ProdFailure,25,0,0,308.7370531,2,32,34.36936756,Other,Will order from them again!,1
-876254,0,218,,597,ProdFailure,,0,0,304.7369303,0,18,36.71311371,Other,If you plan to use this in a car forget about it.,0
-328927,1,218,763,1022,ProdFailure,6,0,1,61.64132538,4,29,41.03238603,Software,I found this product to be waaay too big.,0
-46419,0,219,1476,1930,ProdFailure,13,,,100.775926,1,23,29.5314444,Laptop,Best I've found so far .... I've tried 2 other bluetooths and this one has the best quality (for both me and the l,1
-752863,0,219,535,747,ProdFailure,10,0,1,191.5519093,1,42,40.49010197,Laptop,I'm very disappointed with my decision.,0
-569933,0,219,,802,ProdFailure,5,0,0,402.0868105,0,23,21.98994578,FARMING,Integrated seamlessly with the Motorola RAZR phone.,1
-193802,0,219,639,1021,ProdFailure,10,,0,107.4498947,2,19,36.1837344,Software,"Buyer Beware, you could flush money right down the toilet.",0
-923849,0,219,913,1391,ProdFailure,,0,0,201.6855482,0,21,30.01955513,Laptop,Definitely a bargain.,1
-158586,0,219,917,1418,ProdFailure,,0,0,207.6532895,0,21,28.21673943,Laptop,The price was very good and with the free shipping and all it was a good purchase.,1
-646357,0,219,1043,1448,ProdGlitch,,,,,,,38.01073398,,I received my supposedly new motorola 375 and apparently there was not a match between the phone and the charger.,0
-380934,0,219,518,689,ProdFailure,10,0,0,188.9786171,0,42,38.99975416,Laptop,"Pros:-Good camera - very nice pictures , also has cool styles like black and white, and more.",1
-972214,1,219,527,753,ProdFailure,5,0,1,217.0209402,6,23,34.01591498,Laptop,"That's a huge design flaw (unless I'm not using it correctly, which I don't think is the case).",0
-570070,0,219,623,1138,ProdFailure,15,0,3,281.0591408,1,36,26.03170911,Laptop,"I love my 350 headset.. My Jabra350 bluetooth headset is great, the reception is very good and the ear piece is a",1
-641986,0,219,668,1048,ProdFailure,7,,1,116.5339256,1,18,38.88482695,Software,"The camera, although rated at an impressive 1.3 megapixels, renders images that fall well below expectations of su",0
-565831,0,219,104,248,ProdFailure,,0,0,61.28669845,2,19,40.01662162,Other,I purcashed this for the car charger and it does not work.,0
-570441,1,219,1080,1449,ProdFailure,13,0,0,260.7666667,1,22,,Other,"Sound quality on both end is excellent, I use headset to call my wife and ask my wife to use headset to call me !2",1
-510207,0,219,614,874,ProdFailure,5,,,166.6108166,,16,38.2012104,Software,This phone is slim and light and the display is beautiful.,1
-303485,0,219,534,774,ProdFailure,10,0,0,192.8877492,1,42,40.95631078,Laptop,its a little geeky but i think thats its sex on toast and it rocks and oozes sex right down to its battery embedde,1
-451242,0,219,614,1030,ProdFailure,7,,1,125.5230236,1,17,37.00676675,Software,"Great product, fast shipping!.",1
-694387,0,219,701,1883,,9,0,0,367.5414905,0,17,32.69251534,Other,Absolutely great.,1
-99486,0,219,618,920,ProdFailure,5,,,171.5767001,,16,37.80040089,Software,The keyboard is a nice compromise between a full QWERTY and the basic cell phone number keypad.,1
-337242,0,219,1489,1188,,6,0,0,93.92588206,3,34,30.32211463,Laptop,i got this phone around the end of may and i'm completely unhappy with it.,0
-455010,0,219,,570,ProdFailure,,0,0,308.6034448,0,18,39.2346081,Other,It is very comfortable on the ear.,1
-528824,0,219,943,1406,ProdFailure,,0,0,208.2417578,0,20,29.18897974,Laptop,It has been a winner for us.,1
-542464,0,219,1057,1424,ProdGlitch,8,0,0,145.3771766,0,22,32.33389935,Laptop,)Setup couldn't have been simpler.,1
-673062,0,220,1420,1814,ProdFailure,6,,,162.5386403,5,42,41.27082013,Laptop,I've tried several different earpieces for my cell phone and this Jabra one is the first one I've found that fits,1
-219628,0,220,367,1000,ProdGlitch,6,0,0,138.9424576,0,14,30.78315421,Other,Could not get strong enough signal.,0
-850821,0,220,716,980,ProdFailure,9,0,0,191.3136088,1,19,34.92102106,Desktop,Iam very pleased with my purchase.,1
-567669,0,220,480,884,ProdFailure,12,0,0,96.33643462,0,10,5.226673619,Other,Bad Quality.,0
-620907,0,220,,723,ProdGlitch,9,0,0,120.5320184,2,4,20.17621345,Software,Gets the job done.,1
-209500,0,220,157,601,ProdFailure,27,0,1,213.4142381,0,24,25.57680965,Other,Great audio!.,1
-37026,0,220,540,978,ProdFailure,1,0,0,192.7333333,0,26,,Laptop,Basically the service was very bad.,0
-293456,0,220,640,890,ProdFailure,8,1,1,133.2666667,4,26,,Laptop,it did not work in my cell phone plug i am very up set with the charger!.,0
-878654,0,220,480,809,ProdFailure,6,0,0,262.7333333,2,26,,Desktop,"I've only had my bluetooth for a few weeks, but I really like it.",1
-926835,0,220,718,990,ProdFailure,18,0,0,201.8666667,1,13,,Other,The BT headset was such a disapoinment.,0
-703842,1,220,820,125,ProdFailure,3,0,0,117.7666667,6,23,,Laptop,It is so small and you don't even realize that it is there after a while of getting used to it.,1
-936145,1,220,742,1098,ProdFailure,1,1,0,317.5333333,4,42,,Laptop,The accompanied software is almost brilliant.,1
-452007,1,220,961,1220,ProdFailure,24,0,2,301.3,3,36,,Desktop,Headset works great & was packaged nicely to avoid any damage.,1
-430621,1,220,920,,ProdFailure,4,,12,218,1,39,,Software,!I definitly recommend!!,1
-978404,1,220,1240,1550,ProdFailure,1,,7,130.3,,55,,FARMING,Buyer--Be Very Careful!!!!!.,0
-53354,0,220,816,1239,ProdFailure,8,0,0,285.1417502,1,16,37.41710801,Other,The majority of the Logitech earbud headsets failed.,0
-643697,0,220,763,1039,ProdFailure,20,0,0,202.578152,1,13,38.71719491,Other,Very good stuff for the price.,1
-523840,0,220,888,1213,ProdGlitch,12,0,0,115.8322132,2,24,31.10896086,Desktop,My headset works just peachy-keen.,1
-507490,0,220,1433,1837,ProdFailure,6,,,174.8462897,3,43,42.22116463,Laptop,In my house I was getting dropped coverage upstairs and no coverage in my basement.,0
-386833,0,220,701,950,ProdFailure,2,0,0,97.90858291,2,29,32.52452824,Other,Voice recognition is tremendous!,1
-673503,0,220,1889,2319,ProdFailure,2,0,0,294.9601692,0,26,36.43459137,Laptop,What a waste.,0
-948265,0,220,532,850,ProdFailure,20,0,0,218.4841129,1,21,32.8557014,Other,"During several different 2 minute calls, I experienced 5 drops and it was in an area that had 5 bars.",0
-534264,0,220,612,917,ProdFailure,0,0,0,145.4891553,0,21,34.34790875,Software,I was not happy with this item.,0
-153136,0,220,610,966,ProdGlitch,17,0,0,638.2753611,1,23,21.45734981,Laptop,very disappointed.,0
-512611,0,221,696,1021,ProdGlitch,13,0,0,164.7849474,0,28,36.27847391,Desktop,The phone takes FOREVER to charge like 2 to 5 hours literally.,0
-173707,0,221,927,1263,ProdGlitch,11,0,0,122.2657812,1,24,30.84350527,Desktop,I got this phone on reccomendation from a relative and I'm glad I did.,1
-280712,0,221,841,977,ProdGlitch,8,,,,,,,,What a waste of time!,0
-121442,0,221,953,1179,ProdFailure,25,0,0,233.7484518,1,27,41.52372299,Other,Its reception is very very poor.,0
-490631,0,221,603,1017,ProdFailure,8,,0,97.02322633,1,17,35.68152132,Software,Items stated as included from the description ARE NOT INCLUDED.,0
-435729,0,221,570,806,ProdFailure,12,0,0,108.7492561,1,10,7.39014306,Other,"After 3 months, screen just went black all of a sudden.",0
-392837,0,221,240,490,ProdFailure,14.4,0,0,109.5666667,2,25,,Other,I Was Hoping for More.,0
-550986,0,221,730,1057,ProdFailure,9,0,1,293.2333333,2,29,,Desktop,"Audio Quality is poor, very poor.",0
-692090,1,221,570,830,ProdFailure,7,0,0,,0,0,,Other,I had absolutely no problem with this headset linking to my 8530 Blackberry Curve!,1
-618756,0,221,861,1414,ProdFailure,11,0,0,89.16146609,2,14,40.67729771,Other,"I know that sounds funny, but to me it seemed like sketchy technology that wouldn't work well.Well, this one works",1
-972091,0,221,1324,1706,ProdFailure,4,0,0,180.0368768,0,37,21.23609046,Laptop,I've bought $5 wired headphones that sound better than these.,0
-380340,0,221,,651,ProdGlitch,9,0,0,128.1567931,1,4,18.8829556,Software,This phone is very fast with sending any kind of messages and web browsing is significantly faster than previous p,1
-916472,0,221,334,523,ProdGlitch,4,1,,134.0000742,,10,24.02393073,Server,"Nice quality build, unlike some cheap s*** out there.",1
-200760,0,221,459,672,ProdFailure,8,0,1,60.45700477,2,18,34.78092033,Other,This item is fantastic and works perfectly!,1
-522656,0,221,360,847,ProdGlitch,25,0,0,257.8457289,0,6,24.52600298,Other,And I just love the colors!,1
-671874,0,222,1385,1804,ProdFailure,5,,,195.6328077,4,43,41.20539901,Laptop,W810i is just SUPERB.,1
-185975,0,222,451,853,ProdGlitch,24,0,0,275.601041,1,7,23.46160875,Other,"All I can do is whine on the Internet, so here it goes.The more I use the thing the less I like it.",0
-648200,0,222,,609,ProdFailure,,0,0,288.4596954,0,18,37.74701961,Other,Great charger.,1
-657960,0,222,1257,1626,ProdFailure,3,,0,374.2114868,,51,37.58435894,Software,This is essentially a communications tool that does not communicate.,0
-485754,0,222,1381,1801,ProdFailure,22,0,0,240.703069,1,24,40.62189416,Laptop,Works like a charm; it work the same as the one I got with the phone.,1
-426940,0,222,1023,1482,ProdGlitch,11,0,0,169.088974,0,22,34.47287973,Laptop,"I still maintain that monkeys shouldn't make headphones, we just obviously don't share enough DNA to copy the desi",0
-524021,0,222,722,989,ProdFailure,,2,1,242.2161953,2,13,42.77356841,Other,Great Value.,1
-767651,0,222,939,1161,ProdFailure,2,0,0,205.0294085,2,26,34.93940311,Server,Doesn't work at all.. I bougth it for my L7c and its not working.,0
-35722,0,222,574,1021,ProdGlitch,18,0,0,628.1580616,1,24,20.4962161,Laptop,"The look of it is very sharp and the screen is nice and clear, with great graphics.",1
-943605,0,222,986,1409,ProdFailure,,0,0,207.2889332,0,20,29.21889542,Laptop,doesn't last long.,0
-943418,0,222,648,968,ProdGlitch,17,0,0,639.0581723,0,24,22.61418191,Laptop,One thing I hate is the mode set button at the side.,0
-687377,0,222,676,1090,ProdGlitch,4,0,0,203.9649128,0,12,31.5290287,Other,EXCELLENT SERVICE!!!!!!!!.,1
-670198,0,222,97,339,ProdFailure,0,0,0,28.52378272,1,3,29.5997802,Other,Thank you for wasting my money.,0
-207239,0,222,1378,1829,ProdGlitch,6,0,0,317.3561249,0,17,44.96871369,Desktop,How can that be?The audio quality is poor.,0
-192371,0,223,650,1047,ProdFailure,8,,0,117.1618153,2,18,38.34866301,Software,The iGo chargers and tips are really great.,1
-196382,0,223,523,1029,ProdFailure,2,1,4,174.536412,0,47,36.85308497,Software,The file browser offers all the options that one needs.Handsfree is great.,1
-464604,0,223,,1365,ProdGlitch,1,0,0,311.6590812,3,20,29.91070776,Other,Superb Phone on a Great Network.,1
-260288,0,223,690,1052,ProdFailure,8,,0,96.34213992,2,17,35.75510673,Software,"I connected my wife's bluetooth,(Motorola HS850) to my phone and it worked like a charm whether the phone was in m",1
-388889,0,223,246,516,ProdFailure,28,0,0,316.6974746,,12,30.67643445,Other,"I put the latest OS on it (v1.15g), and it now likes to slow to a crawl and lock up every once in a while.",0
-476445,1,223,,1350,ProdFailure,9,,,,,,,Software,It only recognizes the Phone as its storage device.,0
-332792,1,223,756,1020,ProdFailure,5,0,1,64.93333333,2,28,,Desktop,"If you like a loud buzzing to override all your conversations, then this phone is for you!",0
-814635,1,223,718,1000,ProdFailure,0.1,0,0,220.1333333,1,26,,FARMING,Don't buy this product.,0
-179853,0,223,728,1864,,10,0,0,367.2473584,1,16,30.33358791,Other,I've had this bluetoooth headset for some time now and still not comfortable with the way it fits on the ear.,0
-326493,0,223,343,1031,ProdGlitch,6,0,0,141.6770299,0,14,30.47179852,Other,The sound quality is good and functionality is awesome.,1
-559866,0,223,215,425,ProdFailure,25,0,0,297.6744627,,13,33.11701736,Other,"I have this phone and it is a thorn in my side, I really abhor it.",0
-737574,0,223,598,908,ProdFailure,2,0,0,161.4029057,1,22,36.17425125,Software,I recently had problems where I could not stay connected for more than 10 minutes before being disconnected.,0
-450094,0,223,1017,1457,ProdGlitch,,,,,,,38.7199658,,Incredible!.,1
-638559,0,223,933,1436,ProdFailure,21,0,0,176.4166175,0,25,40.47109214,Laptop,Design Flaw?.,0
-748047,0,223,605,1117,ProdFailure,15,0,3,291.61872,1,35,27.70517064,Laptop,Great phone!.,1
-879210,0,223,895,1495,ProdFailure,23,0,0,157.6517299,0,24,41.85930497,Laptop,Waste of 13 bucks.,0
-878934,0,223,,223,ProdFailure,5,0,0,96.64268699,1,18,22.19662471,Laptop,"But when I check voice mail at night, the keypad backlight turns off a few seconds into the first message, and the",0
-15687,0,223,1339,2811,ProdGlitch,2,0,0,181.1539882,0,15,28.89929961,Desktop,The replacement died in a few weeks.,0
-283514,0,224,1030,1325,ProdFailure,10,2,0,187.7333333,5,18,,Desktop,Any ring tone..Overall good phone to buy..,1
-122019,0,224,745,1023,ProdFailure,18,0,0,206.5813951,1,12,40.84802282,Other,Lately they have been extremely nice and helpful on the phone.,1
-283723,0,224,386,1058,ProdGlitch,6,0,0,125.2428417,0,14,32.77827083,Other,I have had problems wit hit dropping signal and more.,0
-905351,0,224,1359,1818,ProdGlitch,7,0,0,316.9929061,0,17,45.00681809,Desktop,Not impressed.,0
-113073,0,224,982,1355,ProdFailure,,0,0,194.2820992,0,20,29.37360717,Laptop,"Light weight, I hardly notice it is there.",1
-796185,0,224,655,1043,ProdGlitch,14,0,0,141.8128234,0,13,36.22194314,Software,You'll love how thin it is.,1
-221616,0,224,525,693,ProdFailure,2,0,0,224.2413307,0,12,33.82410789,Software,Bad Choice.,0
-718107,0,224,728,957,ProdFailure,5,0,0,75.95573527,7,23,37.50722389,Desktop,The pleather case doesn't fit.,0
-920205,0,224,1279,1677,ProdFailure,1,,0,377.8649847,,52,36.43872408,Software,"useless phone, simply deaf.",0
-349518,0,224,1301,1641,ProdFailure,6,0,0,173.6413388,0,39,19.64066727,Laptop,"The color is even prettier than I thought it would be, and the graphics are incredibly sharp.",1
-479742,0,224,931,1209,ProdFailure,23,0,0,232.8554837,0,27,39.74431431,Other,All in all I think it was a good investment.,1
-540239,0,224,406,769,ProdFailure,9,0,0,276.275914,0,19,39.7301928,Laptop,It makes very strange ticking noises before it ends the call.,0
-846507,0,224,802,1113,ProdFailure,,0,0,186.6311118,1,24,38.93617569,Other,The best electronics of the available FM Transmitters.,1
-568689,0,224,899,1216,ProdGlitch,11,0,0,111.9824201,2,24,30.9911741,Desktop,Battery lasts only a few hours.,0
-548439,0,224,710,1023,ProdGlitch,14,0,0,137.1896556,0,14,36.12206849,Software,"great headset, very impressed - H500.",1
-472837,1,224,514,681,ProdFailure,9,0,0,31.16869601,2,8,37.95217991,Desktop,"The ""1.2"" mega pixel camera, being a part of a phone, is reasonably good7.",1
-656306,0,224,623,882,ProdFailure,3,,,163.0564094,,16,37.17139554,Software,I've had this for nearly 2 years and it has worked great for me.,1
-213040,0,224,697,1076,ProdFailure,2,,,248.3932369,5,23,40.96299512,Desktop,Good transmit audio.,1
-419589,1,224,157,404,ProdGlitch,0,1,3,117.6666667,0,12,,Other,We are sending it back.,0
-834141,0,224,955,1245,ProdGlitch,9,0,0,140.6955024,1,24,31.86981041,Desktop,I did not bother contacting the company for few dollar product but I learned the lesson that I should not have bou,0
-85834,1,224,255,540,,20,0,0,251.358003,0,19,25.20270637,Laptop,"If you hate earbugs, avoid this phone by all means.",0
-244375,0,224,914,1008,ProdFailure,2,1,0,132.2166218,0,20,35.68247123,Laptop,Great price also!,1
-849837,1,224,,1396,ProdFailure,10,,,,,,35.23626524,Software,"The range is very decent, I've been able to roam around my house with the phone in the living room with no recepti",1
-250575,0,224,1065,1572,ProdFailure,15,0,0,186.6280966,0,25,33.4306376,Desktop,fast service.,1
-349960,0,224,790,1050,ProdFailure,,0,0,179.458917,2,25,38.30639822,Other,I would highly recommend this.,1
-861395,0,224,166,568,ProdFailure,25,0,1,199.7384646,0,24,27.02778743,Other,I would recommend this.,1
-393829,0,224,326,566,ProdFailure,13,0,0,101.7583551,1,25,31.47003128,Other,"I also didn't like the ""on"" button, it felt like it would crack with use.",0
-568281,0,224,476,657,ProdFailure,6,0,0,174.5578971,2,27,36.21976783,Software,WORST PHONE EVER.,0
-590264,0,224,839,1110,ProdFailure,,0,0,175.4089363,1,25,39.97273176,Other,I'm still infatuated with this phone.,1
-793461,0,224,377,597,ProdFailure,,0,0,219.4892985,0,12,41.14904123,Other,Freezes frequently4.,0
-197313,0,224,816,1259,ProdFailure,9,0,0,289.5196987,1,16,35.5136585,Other,It's kind of embarrassing to use because of how it looks and mostly it's embarrassing how child-like the company i,0
-264535,0,224,717,1016,ProdFailure,,2,1,239.903304,2,14,42.81636756,Other,"Simple, lightweight and great fit.",1
-858553,0,224,183,383,ProdFailure,1,0,0,37.23500048,2,3,29.4760034,Other,"All in all, I'd expected a better consumer experience from Motorola.",0
-399775,0,225,442,868,ProdGlitch,24,0,0,256.2869189,1,6,26.85325902,Other,There's a horrible tick sound in the background on all my calls that I have never experienced before.,0
-534348,0,225,1277,1679,ProdFailure,1,,0,367.1895151,,51,37.88804981,Software,These are certainly very comfortable and functionality is decent.,1
-491642,0,225,,1432,,,,,,,,,,I usually don't like headbands but this one is very lightweight & doesn't mess up my hair.,1
-622419,0,225,621,957,ProdFailure,4,,,187.1661489,,16,37.46041757,Software,I'm a bit disappointed.,0
-390536,0,225,520,872,ProdFailure,7,0,0,232.3333333,1,20,,Other,"I have had this phone for over a year now, and I will tell you, its not that great.",0
-621073,0,225,,428,ProdFailure,,,,89.3,,13,,Other,I ordered this for sony Ericsson W810i but I think it only worked once (thats when I first used it).,0
-319854,1,225,607,910,ProdFailure,13,0,0,145.0666667,6,29,,Server,The battery is completely useless to me.,0
-896658,0,225,577,957,ProdFailure,3,0,0,151.7150658,1,21,34.86359608,Software,What a big waste of time.,0
-908998,0,225,484,869,ProdFailure,14,0,0,94.9280885,1,9,4.029951372,Other,Don't waste your $$$ on this one.,0
-158337,0,225,764,1055,ProdFailure,,1,1,235.5417762,2,13,43.06166913,Other,Great sound and service.,1
-111318,0,225,961,1185,ProdGlitch,10,0,0,118.15195,1,24,33.20054802,Desktop,Really pleased with this product so far.,1
-111007,0,225,408,768,ProdFailure,8,0,0,270.2601967,0,18,39.95457279,Laptop,One of my favorite purchases ever.,1
-119118,0,225,735,881,ProdFailure,2,0,0,111.4005357,1,30,33.51922814,Other,best bluetooth on the market.,1
-83102,0,225,873,1406,ProdFailure,24,0,0,146.2961719,0,25,39.87676993,Laptop,Authentic leather with nice shine and comfort .I recommend you this case !!,1
-114946,0,225,750,1147,ProdFailure,9,0,1,294.2971661,1,28,30.61105116,Desktop,I was very excited to get this headset because I thought it was really cute.,1
-564542,0,225,,248,ProdFailure,7,0,0,97.53661995,1,19,19.47227247,Laptop,Do not make the same mistake as me.,0
-868970,0,225,1360,1808,,26,,4,329.4072371,1,27,33.03141554,Desktop,Big Disappointment with calendar sync.,0
-839120,0,226,1332,1728,ProdFailure,6,1,0,190.2475602,0,37,19.97395503,Laptop,the phone was unusable and was not new.,0
-520989,0,226,590,991,ProdFailure,0,0,0,195.0838618,0,26,33.40421221,Laptop,Worst Customer Service Ever.,0
-456925,0,226,911,1121,ProdFailure,24,0,0,251.5824035,1,26,42.07798838,Other,"No additional ear gels provided, and no instructions whatsoever.",0
-871027,0,226,964,1204,ProdGlitch,9,0,0,112.8403356,2,24,31.86591683,Desktop,It defeats the purpose of a bluetooth headset.,0
-42813,0,226,1421,1791,ProdFailure,5,,,200.8339688,4,42,41.00966476,Laptop,Worth every penny.,1
-817961,0,226,725,915,ProdFailure,2,0,0,99.00046796,2,30,35.26211359,Other,Excellent wallet type phone case.,1
-383486,0,226,633,908,ProdFailure,3,,,174.3265608,,15,38.74248161,Software,Nice headphones for the price and they work great!,1
-354556,0,226,,1448,,,,,,,,16.38239069,,Internet is excrutiatingly slow.,0
-678369,0,226,,553,ProdFailure,,0,1,316.0968745,0,18,38.13586689,Other,"It is very comfortable to wear as well, which is probably the most important aspect about using a case.",1
-153878,0,226,2330,2600,ProdGlitch,6,1,0,244.5333333,3,51,,Server,"It's fits like a glove and is strong, secure, and durable.",1
-48657,1,226,696,923,ProdFailure,16,0,6,240.4333333,0,30,,Other,O my gosh the best phone I have ever had.,1
-409058,1,226,1550,1870,ProdFailure,0.1,0,0,253.6,0,27,,Desktop,It's very attractive and appears to be of good quality.,1
-164013,1,226,789,1033,ProdFailure,11,0,0,259.319755,1,14,27.74405551,Desktop,I love all the features and form factor.,1
-946900,0,226,1098,1391,ProdFailure,9,1,0,195.4588258,4,18,40.20610642,Desktop,This product had a strong rubber/petroleum smell that was unbearable after a while and caused me to return it,0
-308103,0,226,319,476,ProdGlitch,4,0,,133.447479,,11,24.20108619,Server,poor quality and service.,0
-244142,0,226,,457,ProdFailure,,,,84.23176112,,12,28.45387692,Other,"The cable looks so thin and flimsy, it is scary.",0
-843365,0,226,419,703,ProdFailure,5,0,0,178.7866403,1,26,36.09869413,Software,Great Earpiece.,1
-733046,0,226,,588,ProdFailure,,0,1,298.8195417,0,18,38.19502654,Other,Excellent hands free tool.,1
-546920,0,226,2391,2644,ProdGlitch,5,0,0,244.1797304,2,50,36.70087056,Server,Great for using with your home stereo.,1
-323300,0,226,342,854,ProdFailure,9,0,0,277.8486564,0,18,38.0056832,Laptop,Good product - incredible value.,1
-881242,0,226,,554,ProdFailure,,0,0,299.9557961,0,18,39.0951957,Other,Only had this a month but it's worked flawlessly so far.,1
-121538,0,226,615,1017,ProdGlitch,17,0,0,622.3557677,1,24,21.68666861,Laptop,Works great.,1
-174124,0,226,1310,1761,,26,,5,339.6770182,1,28,33.05755986,Desktop,Absolutel junk.,0
-421103,0,227,732,929,ProdFailure,8,0,1,109.5702924,3,26,34.61442256,Laptop,THAT one didn't work either.,0
-585996,0,227,913,983,ProdGlitch,7,,,,,,30.68101515,,Battery life is real good.,1
-914960,0,227,,1322,ProdGlitch,1,0,0,309.4459491,3,20,29.37100228,Other,Returned 8 hours later.,0
-458901,0,227,753,1061,ProdFailure,,0,0,175.3393762,1,24,38.25659362,Other,It's a great item.,1
-425157,0,227,352,547,ProdGlitch,3,0,,134.108262,,11,24.52482499,Server,Don't waste your money!.,0
-120455,0,227,773,1062,ProdGlitch,14,0,0,161.646341,0,27,35.42092808,Desktop,Love this headset!,1
-723915,0,227,935,991,ProdGlitch,6,,,,,,30.08034344,,"Not only will it drain your player, but may also potentially fry it.",0
-790574,0,227,934,1346,ProdFailure,,0,0,219.5706538,1,21,27.28456073,Laptop,Worked perfectly!,1
-797690,0,227,362,884,ProdGlitch,24,0,0,255.0887578,0,7,26.86761738,Other,Unreliable - I'm giving up.,0
-865521,0,227,1280,1641,ProdFailure,7,0,0,175.8848079,0,37,21.2323579,Laptop,I gave it 5 stars because of the sound quality.,1
-823450,1,227,946,997,ProdFailure,3,0,0,129.5643008,0,16,37.96930454,Other,Avoid this one if you can.,0
-707555,0,227,469,711,ProdFailure,6,0,0,57.88081593,2,19,35.55208815,Other,Reversible plug works great.,1
-807350,0,227,1552,1976,ProdFailure,15,,,103.7859943,0,24,29.54032204,Laptop,I wasted my little money with this earpiece.,0
-515634,0,227,1084,1395,ProdGlitch,11,0,0,190.9727785,0,23,34.08001623,Laptop,Very good phone.,1
-680657,0,227,,571,ProdFailure,,0,0,289.5456726,0,19,40.16294454,Other,"Best of all is the rotating feature, very helpful.",1
-940765,0,228,765,1012,ProdFailure,20,0,0,188.0777225,0,12,40.35190229,Other,Comfort for our whole family.,1
-622781,0,228,964,1223,ProdGlitch,8,0,0,120.9792917,2,24,29.80983516,Desktop,"Good product, good seller.",1
-46978,0,228,749,1097,ProdFailure,9,0,1,289.8223697,1,28,31.47990688,Desktop,I love this bluetooth!,1
-602877,0,228,767,1056,ProdFailure,1,,,225.3275079,5,23,40.69195368,Desktop,"First of all, it doesn't wear well.",0
-177583,0,228,493,819,ProdFailure,4,0,0,264.9370662,2,25,32.01024461,Desktop,I am very impressed with this headset from Plantronics.,1
-374001,0,228,1270,1717,,25,,5,335.6156509,0,27,32.36504156,Desktop,I got it because it was so small and adorable.,1
-975522,0,228,391,844,ProdFailure,11,0,0,276.121973,0,19,38.96836653,Laptop,Great phone!.,1
-461625,0,228,,1477,,,,,,,,16.17924959,,I wouldn't recommend buying this product.,0
-39659,0,228,,976,ProdGlitch,8,0,0,177.5697403,1,16,40.77224843,Other,Piece of Junk.,0
-21129,0,228,,749,ProdFailure,2,0,0,393.5104724,0,23,24.05020799,FARMING,Poorly contstruct hinge.,0
-98628,0,228,,1468,,,,,,,,14.80008716,,"This item is great, installed it, let it charged up overnite and it has been working good every since with no prob",1
-681211,0,228,1327,1703,ProdFailure,8,0,0,147.4149491,0,37,19.51853186,Laptop,Great Phone.,1
-857825,0,228,527,813,,,,,,,,38.02467732,,Don't buy it.,0
-390904,0,228,,577,ProdFailure,,0,0,310.4829388,0,18,38.50570506,Other,Excellent Phone.,1
-273667,0,228,646,960,ProdFailure,8,0,0,201.0682871,2,18,31.54182212,Desktop,DO NOT PURCHASE THIS PHONE.,0
-490135,0,228,526,963,ProdFailure,7,0,0,238.3801452,0,19,34.94670077,Other,The voice recognition thru the handset is excellent.,1
-770365,0,228,627,1017,ProdGlitch,19,0,0,628.9819479,0,24,20.20030223,Laptop,This is hands down the best phone I've ever had.,1
-211841,1,228,1296,1674,ProdFailure,5,0,1,202.6038029,1,18,22.04393384,Laptop,"Works great, when my cat attacked the phone he scratched the protective strip instead of destroying the screen.",1
-29439,0,229,,1480,,,,,,,,15.93805779,,This one works and was priced right.,1
-129167,0,229,1919,2329,ProdFailure,3,0,0,301.1384524,0,27,36.78846956,Laptop,Customer service was terrible.,0
-942191,0,229,648,922,ProdFailure,3,1,0,84.92588137,2,29,33.68409323,Other,Battery life still not long enough in Motorola Razor V3i.,0
-798918,0,229,907,1153,ProdFailure,24,,0,308.85054,1,42,38.79333433,Desktop,Sending it back.,0
-565569,0,229,704,1038,ProdGlitch,13,0,0,149.9896104,0,27,33.76898573,Desktop,Now I know that I made a wise decision.,1
-105933,0,229,412,599,ProdFailure,0,0,0,111.2375972,0,17,20.9297294,Other,Someone shouldve invented this sooner.,1
-511657,0,229,180,571,ProdFailure,26,0,1,213.0362848,0,24,25.54701032,Other,Good price.,1
-180217,0,229,953,1230,ProdFailure,3,0,0,205.4415191,2,26,34.05349114,Server,Everything worked on the first try.The device was certainly engineered in a clever way and the construction feels,1
-610881,0,229,,812,ProdFailure,3,0,0,405.8678483,0,22,23.54212992,FARMING,I received it quickly and it works great!!,1
-889943,0,229,643,931,ProdFailure,6,,,181.8260463,,16,39.39135211,Software,Has been working great.,1
-201776,0,229,597,975,ProdGlitch,16,0,0,627.6620795,0,24,22.11885209,Laptop,"As many people complained, I found this headset's microphone was very weak.",0
-260241,0,229,1360,1808,ProdFailure,21,0,0,240.3474711,0,24,41.59674747,Laptop,My 5-year old Nokia 2160 from Tracfone holds the charge a lot better than this.,0
-41637,0,229,610,963,ProdFailure,5,0,0,228.898609,1,20,36.13495946,Other,They do not care about the consumer one bit.,0
-403133,1,229,673,950,ProdGlitch,3.9,0,2,122.7666667,0,32,,Desktop,"This is a good battery, and it got here really fast.",1
-114416,0,229,650,880,ProdFailure,3,0,0,93.55292753,1,29,32.01107938,Other,The instruction manual is lacking.,0
-635979,0,229,1072,1388,ProdFailure,9,1,0,201.7857441,5,18,41.14075208,Desktop,Also its slim enough to fit into my alarm clock docking station without removing the case.,1
-725179,1,229,1617,1936,ProdFailure,2,0,0,260.251081,0,27,30.27892939,Desktop,Phone now holds charge like it did when it was new.,1
-176609,0,229,282,528,ProdFailure,14,0,0,109.3656846,1,25,30.58772816,Other,The battery is unreliable as well as the service use antena.,0
-938512,0,229,411,868,ProdGlitch,25,0,0,267.1326089,0,7,24.38038951,Other,It's uncomfortable and the sound quality is quite poor compared with the phone (Razr) or with my previous wired he,0
-404681,0,229,1317,1746,,24,,4,329.647795,1,28,32.36162706,Desktop,We have gotten a lot of compliments on it.,1
-972387,0,229,411,810,ProdFailure,8,0,0,276.0876189,0,19,38.50140658,Laptop,This is definitely a must have if your state does not allow cell phone usage while driving.,1
-16581,0,229,882,1031,ProdGlitch,8,,,,,,31.0726936,,I want my money back.,0
-107404,0,229,508,742,ProdFailure,5,0,0,72.00450998,1,19,34.9570299,Other,I love this device.,1
-763989,0,230,1084,1558,ProdFailure,16,0,0,170.2231566,0,26,35.059327,Desktop,I am also very happy with the price.,1
-109234,0,230,,563,ProdFailure,,0,1,314.2737125,0,19,37.74372511,Other,I ordered this product first and was unhappy with it immediately.,0
-385310,0,230,586,1021,ProdGlitch,18,0,0,629.0957663,0,23,22.82560712,Laptop,The Ngage is still lacking in earbuds.,0
-194642,0,230,,1503,,,,,,,,17.12566043,,I was able to do voice dialing in the car with no problem.,1
-103084,0,230,917,1407,ProdFailure,,0,0,203.9066776,0,21,27.69223742,Laptop,"I have 2-3 bars on my cell phone when I am home, but you cant not hear anything.",0
-844869,0,230,628,909,ProdFailure,4,,,179.8468627,,16,38.63094673,Software,"good item, low price.",1
-498798,0,230,765,1113,ProdFailure,8,0,1,301.2329108,2,28,30.34670611,Desktop,"However-the riingtones are not the best, and neither are the games.",0
-121826,0,230,682,899,ProdFailure,8,1,0,140.7144149,4,25,33.6949437,Laptop,The plug did not work very well.,0
-352928,1,230,585,693,,4,0,2,110.4144797,2,33,133.5282704,Other,AMAZON SUCKS.,0
-365942,0,230,,468,ProdFailure,,,,77.55320305,,13,25.61429467,Other,Rip off---- Over charge shipping.,0
-119147,0,230,726,1054,ProdFailure,0,,,230.0750645,4,23,43.51909332,Desktop,VERY comfortable.,1
-362662,0,230,762,1843,,12,0,0,379.3499549,0,16,32.04036608,Other,The battery is working well as a replacement for the original that came with the phone over 2 years ago.,1
-328046,0,230,481,650,ProdFailure,26,0,0,302.849884,2,32,33.87069555,Other,The reception is excellent!,1
-70797,1,230,726,1091,ProdFailure,2,0,0,177.611648,2,22,48.27759122,Laptop,"It fits comfortably in either ear, the sound is clear and loud, and the charge lasts a couple of days.",1
-438427,1,230,1638,2165,ProdGlitch,3.5,,,,,,,Server,"very clear, quality sound and you don't have to mess with the sound on your iPod since you have the sound buttons",1
-296396,0,230,1312,1633,ProdFailure,7,1,0,215.0666667,1,20,,Other,1. long lasting battery (you don't have to recharge it as frequentyly as some of the flip phones)2.,0
-124769,0,230,2130,2800,ProdGlitch,7,,5,468.8666667,,56,,Laptop,Obviously there is a problem with the adhesive.,0
-218828,0,230,426,695,ProdFailure,10,0,0,119.7,1,20,,Other,Very disappointing.,0
-711220,1,230,560,920,ProdFailure,8,1,4,69.13333333,2,27,,Other,"It was an inexpensive piece, but I would still have expected better quality.",0
-118942,1,230,470,780,ProdFailure,17.8,2,1,100.4666667,0,28,,Other,It is practically useless and did not add any kind of boost to my reception after I bought it.,0
-232649,1,230,320,550,ProdFailure,0.4,0,0,211.0333333,0,23,,Other,Excellent sound quality.,1
-889203,0,230,480,647,ProdFailure,4,0,0,160.6060458,1,26,33.6299233,Software,Was not happy.,0
-855211,0,230,329,520,ProdGlitch,6,0,,123.0672167,,10,24.02181712,Server,A PIECE OF JUNK THAT BROKE AFTER BEING ON MY PHONE FOR 2 DAYS!!!,0
-896192,0,230,,499,ProdFailure,,,,96.75696905,,13,27.44124241,Other,New Battery works great in phone.,1
-767521,0,230,719,1017,ProdGlitch,5,0,0,214.3892524,0,13,29.04596406,Other,Worst customer service.,0
-400142,0,231,953,1150,ProdFailure,24,0,0,253.3293713,0,26,39.81680057,Other,"I've dropped my phone more times than I can say, even on concrete and my phone is still great (knock on wood!).",1
-543643,0,231,716,1014,ProdFailure,1,,,230.3616162,5,24,39.87270885,Desktop,Reception is terrible and full of static.,0
-356562,0,231,615,963,ProdFailure,1,0,0,160.3831682,1,21,35.1122412,Software,Good audio quality.,1
-438926,0,231,1419,1797,ProdGlitch,6,0,0,328.3984932,0,16,43.91004585,Desktop,This little device has transformed my organizational capability and made my life a whole lot easier.,1
-438668,0,231,758,1834,,9,0,0,377.29104,0,17,31.43531612,Other,"I was sitting in my vehicle, with the cradle on my belt, and the headset lost signal.",0
-876878,0,231,938,1357,ProdGlitch,5,0,0,155.0253817,0,31,34.64492165,Laptop,Were JERKS on the phone.,0
-613194,0,231,834,1075,ProdFailure,24,,0,314.066374,1,43,38.04372621,Desktop,Works like a charm.. Works as advertised.,1
-661231,0,231,1338,1741,,26,,3,332.4098399,0,28,30.76863769,Desktop,"Comfortable, Nice Range, Good Battery Life.",1
-243360,0,231,428,639,ProdFailure,5,0,0,182.93212,1,26,35.58378924,Software,Their network coverage in Los Angeles is horrible.,0
-662768,0,231,727,1857,,10,0,0,362.1817044,1,16,31.86715522,Other,Excellent starter wireless headset.,0
-503236,0,231,1094,1561,ProdFailure,15,0,0,186.2019963,0,25,33.79421161,Desktop,"The loudspeaker option is great, the bumpers with the lights is very ... appealing.",0
-244599,0,231,646,1001,ProdFailure,2,0,0,156.675375,0,21,34.00023607,Software,The only thing that I think could improve is the sound leaks out from the headset.,0
-298027,0,231,2359,2667,ProdGlitch,5,1,0,242.6148614,2,51,36.88704865,Server,"First off the reception sucks, I have never had more than 2 bars, ever.",0
-711799,0,232,1845,2375,ProdFailure,2,0,0,291.6334148,0,26,39.48391375,Laptop,The phone gets EXTREMELY HOT!,0
-180172,0,232,628,993,ProdFailure,3,0,0,166.8610989,1,21,36.07127157,Software,"The microphone also works well, but (according to people I have called) it applifies everything.",1
-665726,0,232,963,1350,ProdFailure,,0,0,217.4805423,0,20,26.79993001,Laptop,Nice design and quality.,1
-231554,0,232,1129,1590,ProdFailure,16,0,0,189.8390087,0,25,33.49396616,Desktop,"Also, if your phone is dropped, this case is not going to save it, specially when dropped face down.",0
-630735,1,232,1293,1717,ProdFailure,0,0,0,328.5141214,0,30,40.04844004,Laptop,"It is light, easy to use, and has very clear reception and transmission.",1
-498581,0,232,960,1400,ProdFailure,21,0,0,162.6404305,0,24,39.20510043,Laptop,"bad fit, way too big.",0
-318025,1,232,145,815,ProdFailure,7,0,3,272.938299,0,23,47.12058049,Other,It definitely was not as good as my S11.,1
-750837,0,232,409,816,ProdFailure,6,0,0,274.0020796,0,19,40.10944251,Laptop,awesome device.,1
-159831,0,232,1318,1711,ProdFailure,6,0,0,197.768728,0,37,19.77885179,Laptop,Waste of money.,0
-132676,0,232,1445,1766,ProdFailure,5,,,179.239077,5,42,40.82316043,Laptop,"I had ordered a motorola data cable, got a very well finished and working product.",1
-733211,0,233,824,1103,ProdFailure,,0,0,174.2399806,2,25,37.91287247,Other,Love This Phone.,1
-642404,0,233,1031,1350,ProdFailure,9,1,0,188.9398399,5,18,40.67081708,Desktop,I was looking for this headset for a long time and now that I've got it I couldn't be happier.,1
-627554,0,233,811,1061,ProdFailure,7,0,0,288.3727394,1,28,33.27141336,Desktop,"I'll be drivng along, and my headset starts ringing for no reason.",0
-716410,0,233,653,899,ProdFailure,2,0,0,89.7941492,1,30,33.98609881,Other,Display is excellent and camera is as good as any from that year.,1
-52356,0,233,1438,1770,ProdGlitch,8,0,0,320.9234361,0,16,44.75295886,Desktop,Battery life is also great!,1
-71231,1,233,360,,ProdFailure,19,4,0,113.5666667,2,20,,Other,The worst phone I've ever had.... Only had it for a few months.,0
-415485,1,233,840,1074,ProdFailure,2,0,1,153.2333333,6,23,,Server,Not a good item.. It worked for a while then started having problems in my auto reverse tape player.,0
-350327,0,233,614,1028,ProdGlitch,18,0,0,649.7471044,1,24,20.87256027,Laptop,This is so embarassing and also my ears hurt if I try to push the ear plug into my ear.,0
-129906,1,233,717,1000,ProdFailure,6,0,7,122.7994431,0,21,34.53043859,Laptop,Protects the phone on all sides.,1
-954995,0,233,277,501,ProdFailure,16,0,0,136.401603,1,24,28.0529211,Other,This is a VERY average phone with bad battery life that operates on a weak network.,0
-705786,1,233,1037,1326,ProdFailure,1,0,,120.3479666,0,19,203.3121487,FARMING,"Clear Skype Calls, Long Battery Life, Long Range.",1
-256935,0,233,919,1358,ProdFailure,,0,1,203.0716875,0,20,27.83335613,Laptop,Soyo technology sucks.,0
-343794,0,233,888,1046,ProdGlitch,8,,,,,,28.01323884,,Great Hands Free Device.,1
-412699,0,233,898,1362,ProdFailure,,0,0,210.0161196,0,21,29.77994226,Laptop,"you can even take self portraits with the outside (exterior) display, very cool.",1
-890210,0,234,643,957,ProdGlitch,13,0,0,128.2392225,0,13,35.15764561,Software,Same problem as others have mentioned.,0
-129718,0,234,813,1050,ProdFailure,,0,0,186.8909246,1,24,37.88976871,Other,After trying many many handsfree gadgets this is the one that finally works well.,1
-462477,0,234,911,995,ProdGlitch,8,,,,,,28.97862141,,Magical Help.,1
-359281,0,234,722,946,ProdFailure,2,0,0,105.9992656,1,29,31.8406351,Other,The worst piece of crap ever along with the Verizon customer service.,0
-444437,0,234,894,1065,ProdGlitch,6,,,,,,29.37165152,,Poor sound quality.,0
-518778,0,234,485,689,ProdFailure,6,0,0,172.8107266,1,27,34.4567622,Software,The best phone in market :).,1
-619798,0,234,1257,1657,ProdFailure,6,0,0,195.0845391,0,38,20.73303164,Laptop,It worked very well.,1
-411787,0,234,978,1201,ProdFailure,2,0,0,200.5757523,1,26,36.39872872,Server,The company shipped my product very promptly and it works well.,1
-633388,0,234,356,611,ProdFailure,,0,0,204.6427862,0,13,41.11515894,Other,Exactly what I wanted.,1
-581513,0,234,892,1196,ProdFailure,3,0,0,221.6813833,1,26,34.5562014,Server,The picture resolution is far below what other comparably-priced phones are offering today.,0
-599269,0,234,909,1168,ProdFailure,24,0,0,245.8978616,1,27,40.85742704,Other,This is a great deal.,1
-581340,0,234,457,661,ProdFailure,26,0,0,284.7815723,2,32,35.9367948,Other,"Excellent product, I am very satisfied with the purchase.",1
-876700,0,235,952,1222,ProdGlitch,9,0,0,118.6161343,1,23,30.44727454,Desktop,I highly recommend these and encourage people to give them a try.,1
-597724,0,235,,902,ProdGlitch,9,0,0,169.0149735,0,16,38.69873592,Other,Better than you'd expect.,1
-75096,0,235,902,1193,ProdFailure,22,0,0,239.2596449,1,26,41.33669648,Other,"Using all earpieces, left or right, this thing will not stay on my ear.",0
-191028,1,235,524,774,ProdFailure,16,0,0,,0,0,33.56876627,Other,Great product and price.,1
-898508,0,235,189,516,ProdFailure,26,0,1,206.765495,0,24,27.55140882,Other,"Sounds good reasonably priced and effective, Its that simple !",1
-550445,0,235,449,701,ProdFailure,6,0,0,164.9639399,1,26,35.78815771,Software,Still Waiting...... I'm sure this item would work well.. if I ever recieve it!,0
-41328,0,235,680,933,ProdFailure,6,0,0,191.1124423,2,18,32.13282224,Desktop,what a disappointment,0
-689593,0,235,1331,1689,ProdFailure,8,1,0,214.2845994,0,19,36.64262904,Other,Very prompt service.,1
-919221,0,235,482,819,ProdFailure,6,0,0,248.8600943,2,25,32.46730089,Desktop,Excellent product for the price.,1
-321197,1,235,548,870,ProdFailure,3.5,0,1,223.2,0,17,,Other,Very pleased with this headset.,1
-868894,1,235,,1431,ProdFailure,10,,,,,,35.73356733,Software,don't waste your money and time.,0
-13676,0,235,,1312,ProdGlitch,0,0,0,318.8471298,3,21,31.08415579,Other,I especially love the long battery life.,1
-708015,0,235,1463,1794,ProdFailure,6,,,195.1781446,4,43,39.94505447,Laptop,"It's so stupid to have to keep buying new chargers, car chargers, cradles, headphones and car kits every time a ne",0
-86175,0,235,757,1021,ProdFailure,2,,,231.4343159,5,23,42.17978642,Desktop,Works great.,1
-249515,0,235,,596,ProdFailure,26,0,0,127.8,0,9,,Other,Plantronics Bluetooth Excelent Buy.,1
-761853,0,235,901,1417,ProdFailure,23,1,0,158.9968245,0,25,40.33195033,Laptop,I came over from Verizon because cingulair has nicer cell phones.... the first thing I noticed was the really bad,0
-639791,0,235,378,608,ProdFailure,2,0,0,110.0572738,0,17,19.26843955,Other,I'll be looking for a new earpiece.,0
-811035,0,235,655,871,ProdFailure,3,0,0,83.23800004,2,30,32.03167837,Other,I highly recommend this device to everyone!,1
-375031,0,235,627,1119,ProdFailure,15,0,3,282.9760159,0,36,27.14820546,Laptop,Jawbone Era is awesome too!,1
-726119,0,235,1327,2857,ProdGlitch,4,0,0,213.3929949,0,14,31.23611381,Desktop,We received a WHITE colored battery that goes DEAD after a couple hoursTHe original used to last a week - but stil,0
-625931,0,235,941,971,ProdFailure,1,1,0,116.8186482,0,20,35.86611643,Laptop,After a year the battery went completely dead on my headset.,0
-790552,0,235,,662,ProdFailure,24,0,1,122.1475515,1,8,20.17202126,Other,"I have used several phone in two years, but this one is the best.",1
-774872,0,235,557,890,ProdFailure,4,0,0,273.6743799,1,25,33.50940904,Desktop,An Awesome New Look For Fall 2000!.,1
-441184,0,235,1902,2336,ProdFailure,3,0,0,285.3312927,0,27,39.91648297,Laptop,This is the first phone I've had that has been so cheaply made.,0
-890721,0,235,1476,1182,,4,0,0,103.6727859,2,34,30.36171141,Laptop,"Att is not clear, sound is very distorted and you have to yell when you talk.",0
-430664,0,235,861,1389,ProdFailure,13,0,0,110.0541983,3,15,41.8416909,Other,The plastic breaks really easy on this clip.,0
-278620,0,235,624,972,ProdFailure,1,0,0,152.8327542,0,21,34.53125999,Software,Price is good too.,1
-108000,1,235,,1169,ProdGlitch,,0,1,143.4146448,0,10,35.06031985,Other,Don't make the same mistake I did.,0
-965924,0,236,707,1835,,11,0,0,367.0984875,1,17,33.78919233,Other,Oh and I forgot to also mention the weird color effect it has on your phone.,0
-101008,0,236,307,572,ProdFailure,13,0,0,104.3956905,2,24,31.12039863,Other,I'm using it with an iriver SPINN (with case) and it fits fine.,1
-465785,0,236,878,1390,ProdFailure,10,0,0,112.9125146,2,15,38.50589728,Other,Also the area where my unit broke).- I'm not too fond of the magnetic strap.,0
-233804,0,236,1366,1724,ProdFailure,6,0,0,226.0402946,0,20,36.97693039,Other,"Overall, I am psyched to have a phone which has all my appointments and contacts in and gets great reception.",1
-552217,0,236,,682,ProdFailure,26,0,0,119.5859013,0,8,20.81825554,Other,"every thing on phone work perfectly, she like it.",1
-860534,0,236,504,702,ProdFailure,24,0,0,312.7384712,4,31,35.77167592,Other,"Another note about this phone's appearance is that it really looks rather bland, especially in the all black model",0
-694577,0,236,698,1892,,11,0,0,357.8050619,0,17,30.56428034,Other,IT'S REALLY EASY.,1
-759420,0,236,364,801,ProdFailure,10,0,0,289.7015389,0,19,39.92995455,Laptop,My Sanyo has survived dozens of drops on blacktop without ill effect.,1
-954034,0,236,573,1054,ProdFailure,14,0,3,276.1823627,0,35,29.2830325,Laptop,Fantastic earphones.,1
-866179,0,236,949,1016,ProdFailure,1,1,0,125.7017044,0,19,33.22431913,Laptop,It finds my cell phone right away when I enter the car.,1
-636000,0,236,1410,1750,ProdFailure,2,0,0,192.7666667,0,35,,Other,Low Quality.,0
-577345,0,236,826,1142,ProdFailure,,0,0,186.1563472,2,25,37.9438682,Other,I highly recommend this modest priced cellular phone.,1
-52666,0,236,964,1252,ProdGlitch,11,0,0,127.359922,1,23,30.98553896,Desktop,But it does get better reception and clarity than any phone I've had before.,1
-151309,0,236,1262,1696,ProdFailure,6,0,0,176.7491631,0,38,17.62092021,Laptop,Warning - Stay away.,0
-671552,0,236,824,1064,ProdFailure,,0,0,169.8052711,0,24,39.48884444,Other,I wish I could return the unit and get back my money.,0
-363614,0,236,1402,1825,ProdFailure,21,0,0,224.9413467,0,24,41.8717558,Laptop,Awsome Device Works Great!!.,1
-259230,0,236,560,836,ProdFailure,5,0,0,267.7555345,2,25,32.20078133,Desktop,I used to talk on it for 1 - 1 1/2 hours and the battery would be literally drained and dying.,0
-824161,0,237,761,1009,ProdFailure,17,0,0,180.731154,1,13,41.52602645,Other,"If you don't find it, too bad, as again the unit comes with one earpad only.I would not recommend this to anyone.",0
-76207,0,237,,788,ProdFailure,4,0,0,408.1876462,0,23,24.20093583,FARMING,Very Displeased.,0
-975179,0,237,575,1016,ProdGlitch,19,0,0,648.3284926,0,23,22.84647896,Laptop,"I might have gotten a defect, but I would not risk buying it again because of the built quality alone.",0
-795829,1,237,437,751,ProdFailure,6,0,0,50.71753483,2,18,37.10325125,Software,They made this case too small and is very difficult to install.,0
-167141,0,237,,788,ProdFailure,4,0,0,412.0205467,0,24,25.63726309,FARMING,Restored my phone to like new performance.,1
-148020,0,237,1386,1865,ProdFailure,20,0,0,225.8977256,0,24,42.76682961,Laptop,"I would recommend purchasing the Jabra JX-10 series 2 which works flawlessly with my Moto Q, go figure.",1
-141825,0,237,1443,1809,ProdFailure,5,,,175.8153754,5,43,40.31579003,Laptop,"I searched the Internet, and found this one to be the best value.",1
-514895,0,237,,466,ProdFailure,,,,85.1283538,,12,24.99135942,Other,Does not fit.,0
-161165,0,237,469,751,ProdFailure,10,0,0,119.2312044,1,19,43.829588,Other,Very happy with this product.,1
-866889,0,237,937,980,ProdGlitch,8,,,,,,30.02008799,,"The screen size is big, key pad lit well enough, and the camera quality is excellent for a camera phone.",1
-761029,0,237,629,992,ProdGlitch,15,0,0,145.3552803,0,14,36.03276029,Software,There's really nothing bad I can say about this headset.,0
-866353,1,237,760,1060,ProdFailure,2.6,1,0,138.9666667,2,38,,FARMING,"i'm glad i found this product on amazon it is hard to find, it wasn't high priced.",1
-321857,0,237,829,1068,ProdFailure,,0,0,177.0176744,2,24,40.99520822,Other,Portable and it works.,1
-608776,0,237,871,1404,ProdFailure,22,1,0,169.2836314,1,25,40.98061565,Laptop,"My colleague & I now get great reception.A little expensive, but performance is great.",1
-121927,0,237,1047,1439,ProdGlitch,,,,,,,36.76101419,,I even fully charged it before I went to bed and turned off blue tooth and wi-fi and noticed that it only had 20 %,0
-937664,0,237,188,555,ProdFailure,26,0,1,203.8609299,0,25,26.62907739,Other,I've also had problems with the phone reading the memory card in which I always turn it on and then off again.,0
-704983,0,237,580,979,ProdFailure,1,0,0,160.0582364,1,21,34.35546078,Software,Not good when wearing a hat or sunglasses.,0
-336018,0,238,743,1861,,10,0,0,363.1401917,1,16,30.27099531,Other,Timely shipment and quality product.,1
-711104,0,238,,717,ProdGlitch,6,0,0,119.7119548,2,5,19.62452779,Software,Nice solid keyboard.,1
-425089,0,238,763,1103,ProdFailure,7,0,0,275.9553562,2,29,29.71360104,Desktop,Very well made and fits my Surefire GX2 perfectly.,1
-738670,0,238,452,689,ProdFailure,6,0,0,77.22882195,1,19,35.5214873,Other,Horrible phone.,0
-477299,1,238,196,773,ProdFailure,15,0,6,173.4666667,0,19,,Laptop,BT50 battery junk!.,0
-474618,0,238,1882,2338,ProdFailure,2,0,0,307.5727526,1,27,36.6907244,Laptop,We would recommend these to others.,1
-187150,1,238,557,879,ProdGlitch,1,0,0,56.6670994,0,13,64.77572776,Other,Cant get the software to work with my computer.,0
-335058,1,238,91,419,ProdFailure,28,0,2,120.7333333,1,16,,Other,Disappointed!.,0
-247699,0,238,468,681,ProdFailure,8,0,0,59.40577506,1,18,35.69663623,Other,poor voice clarity.,0
-93378,0,238,,556,ProdFailure,,0,1,308.4251258,0,18,37.65407524,Other,The battery works great!,1
-708726,0,238,1015,1476,ProdGlitch,10,0,0,161.2557418,1,23,32.71942124,Laptop,No buyers remorse on this one!.,0
-873894,0,238,443,672,ProdFailure,6,0,0,75.81397134,2,19,36.52956948,Other,Very disappointed in AccessoryOne.,0
-245380,0,239,75,265,ProdFailure,17,3,0,126.8333333,2,19,,Other,I find this inexcusable and so will probably be returning this phone and perhaps changing carriers.,0
-255873,0,239,2368,2670,ProdGlitch,7,0,0,252.0735449,1,50,38.07409059,Server,"Looks great and is strong.""",1
-228426,0,239,,630,ProdFailure,,0,0,313.8097259,0,19,37.51332405,Other,"I have had TMobile service for 2 or 3 years now, and I am pretty happy with it.",1
-375163,0,239,215,498,ProdFailure,25,0,0,300.2963125,,12,30.20398928,Other,The update procedure is difficult and cumbersome.,0
-846016,0,239,904,1360,ProdFailure,,0,1,207.784271,0,21,30.54921583,Laptop,Disappointment.. I hate anything that goes in my ear.,0
-360418,0,239,706,957,ProdGlitch,11,0,0,138.1673596,0,13,38.56120628,Software,Great software for Motorolas.,1
-57408,0,239,160,311,ProdFailure,17,2,0,123.3686461,1,19,26.71625685,Other,The delivery was on time.,1
-249989,0,239,950,1345,ProdFailure,,0,0,194.2510061,0,20,27.15706127,Laptop,Very easy to use.,1
-29556,0,239,319,579,ProdFailure,,0,0,226.2432432,0,12,38.67184311,Other,"Uncomfortable In the Ear, Don't use with LG VX9900 (EnV).",0
-538011,1,239,,1057,ProdFailure,0.8,,,,,,,Other,The volume switch rocketed out of the unit to a destination unknown.,0
-208148,0,239,804,1081,ProdFailure,17,0,0,211.9232754,0,13,41.4948398,Other,"It holds a charge for a long time, is reasonably comfortable under long-wearing conditions and the quality of soun",1
-772924,0,239,278,434,ProdFailure,27,0,0,307.6242388,,12,31.91370468,Other,I'd like to return it.,0
-540399,0,239,850,1007,ProdGlitch,9,,,,,,29.50851727,,The keyboard is really worthwhile in usefulness and is sturdy enough I don't expect any problems.,1
-764626,0,239,902,1207,ProdFailure,3,0,0,194.9872525,1,26,35.40605965,Server,"Verizon's bills, however, are difficult to understand even though their pricing plans are simple.",0
-697448,0,239,552,923,ProdFailure,7,0,0,241.0836493,1,19,37.47975712,Other,"After charging overnight, these batteries work great.",1
-753610,0,239,,622,ProdFailure,26,0,0,127.024625,0,8,20.40782558,Other,You won't regret it!,1
-49819,0,239,1403,1835,ProdGlitch,8,0,0,322.7881144,0,17,45.41317756,Desktop,I love this phone!.,1
-367585,0,239,878,1165,ProdFailure,23,,0,314.3944934,0,42,37.98813172,Desktop,A Disappointment.,0
-794223,0,239,,1517,,,,,,,,16.42639471,,Its not user friendly.,0
-384493,0,240,434,683,ProdFailure,25,0,0,302.772262,2,31,34.87185516,Other,Unfortunately the ability to actually know you are receiving a call is a rather important feature and this phone i,0
-779454,0,240,960,1224,ProdGlitch,10,0,0,127.741782,1,24,33.60803731,Desktop,"Then I exchanged for the same phone, even that had the same problem.",0
-569097,0,240,312,506,ProdGlitch,3,1,,135.1985187,,11,25.35716493,Server,This results in the phone being either stuck at max volume or mute.,0
-847245,0,240,1449,1805,ProdFailure,6,,,193.1196811,5,43,39.59359522,Laptop,This PDA rocks.,1
-578234,0,240,439,861,ProdGlitch,24,0,0,258.3035939,0,7,26.61774876,Other,"It is super charged up for use as a small hybrid palmtop/camera/cellphone, and excels in those roles.",1
-265049,1,240,887,1169,ProdFailure,2,0,0,171.5062567,5,23,56.96183857,Server,"I would definitely recommend the Jabra BT250v for those who are looking for comfort, clarity and a great price!",1
-191148,1,240,195,380,ProdFailure,,0,1,198.9,,17,,Other,I had Verizon 2 years ago and really liked their service.,1
-825024,0,240,169,450,ProdFailure,25,0,0,118.6666667,1,11,,Other,Pretty piece of junk.,0
-889457,0,240,1370,2049,ProdGlitch,5,0,0,189.7,1,28,,Laptop,Plug was the wrong size.,0
-439414,0,240,1141,1500,ProdFailure,4,0,0,289.1333333,0,25,,Desktop,Works as described.,1
-506723,0,240,593,880,ProdFailure,16,0,0,97.93333333,1,17,,Other,Save your money.... I've had this item for 11 months now.,0
-40225,1,240,350,,ProdFailure,3,1,0,177.5,0,16,,Server,Bad Purchase.,0
-357352,1,240,1360,,ProdFailure,3,1,6,303.2942857,1,27,,Laptop,WELL IM SATISFIED.,1
-357051,1,240,186,488,ProdGlitch,3,0,0,65.96666667,3,12,,Other,"The bose noise cancelling is amazing, which is very important for a NYC commuter.",1
-684089,0,240,2395,2664,ProdGlitch,7,0,0,243.7324175,3,50,35.87195895,Server,This battery is an excellent bargain!,1
-153333,0,240,1114,1637,ProdFailure,15,0,0,185.8020505,0,25,32.22967397,Desktop,Defective crap.,0
-51023,0,240,175,503,ProdFailure,23,0,0,135.7640508,0,11,22.9810051,Other,I would have given no star if I was able.,0
-556476,1,241,1641,2251,ProdGlitch,2,,,,,,31.56422692,Server,I wear glasses and it fits fine with them.,1
-55410,0,241,570,920,ProdFailure,7,0,0,230.0597297,0,19,35.89670864,Other,"The sound quality for the device is unacceptable.Unless you are in a really quiet area, you almost hear nothing.",0
-749360,0,241,774,1130,ProdFailure,10,0,1,124.7666667,0,19,,Laptop,I would not recommend this item to anyone.,0
-370101,1,241,309,580,ProdFailure,11,0,4,36.5,0,12,,Desktop,The holster that arrived did not match the photo in the ad.,0
-694117,0,241,1846,2387,ProdFailure,2,0,0,317.6925568,0,26,37.78203628,Laptop,great...no problems at all!.,1
-120301,0,241,618,970,ProdFailure,6,0,0,222.6265908,1,19,34.68253701,Other,"As an earlier review noted, plug in this charger and nothing happens.",0
-133115,0,241,800,1020,ProdFailure,18,1,0,196.2531041,1,12,39.7589325,Other,This frog phone charm is adorable and very eye catching.,1
-66983,0,241,1044,1613,ProdFailure,14,0,0,195.6423332,0,25,34.54080952,Desktop,You never know if you pushed it hard enough or the right number of times for the function you want or not.,0
-45099,0,241,955,1122,ProdFailure,22,0,0,243.3497326,0,28,39.08269663,Other,The sound is clear and the people I talk to on it are amazed at the quality too.,1
-128430,0,241,575,907,ProdFailure,8,0,0,236.9619925,1,19,37.93487786,Other,I got the aluminum case for my new Palm VX and it worked really well--it has protected my handheld perfectly so fa,1
-439883,0,241,,494,ProdFailure,,,,83.09972613,,13,26.14897018,Other,"very good product, well made.",1
-664130,1,242,102,,ProdFailure,24.5,0,1,216.1333333,4,32,,Other,Mobile Phone Tools are a must have.,1
-238378,0,242,459,702,ProdFailure,25,0,0,303.7624695,3,32,35.22386162,Other,I am very impressed with the job that Motorola did on the sturdiness of this phone.,1
-304875,0,242,914,1418,ProdFailure,21,1,0,163.1743772,0,25,42.06098177,Laptop,"I received my orders well within the shipping timeframe, everything was in good working order and overall, I am ve",1
-866239,0,242,925,1213,ProdGlitch,9,0,0,117.0455007,1,24,30.48278003,Desktop,The phone is sturdy and waterproof.,1
-808033,0,242,2421,2666,ProdGlitch,6,1,0,243.0031287,3,51,36.57538774,Server,I am not impressed with this and i would not recommend this item to anyone.,0
-877109,0,242,497,674,ProdFailure,6,0,0,68.93111023,2,18,36.46436586,Other,My only complaint is the standard sound volume is a little low even when turned up to 5(of 5),0
-577291,1,242,1210,1629,ProdFailure,13,1,1,151.9333333,1,35,,Server,Thanks again to Amazon for having the things I need for a good price!,1
-872003,1,242,375,,,4,0,0,123.8,0,14,,Laptop,I ended up sliding it on the edge of my pants or back pockets instead.,1
-923614,1,242,398,,ProdFailure,3,1,0,184.7251127,0,16,51.63038059,Server,I had to go to a store and bought a new NOKIA phone which is working great.,1
-748825,0,242,684,915,ProdFailure,16,0,0,88.66520126,0,17,32.52309222,Other,Works great!.,1
-783367,0,242,227,476,ProdFailure,23,0,0,126.9226912,1,10,23.04094471,Other,REALLY UGLY.,0
-975296,0,242,632,893,ProdFailure,15,0,0,84.66879155,0,16,35.60488671,Other,"horrible, had to switch 3 times.",0
-207185,0,242,1509,1832,ProdFailure,1,0,0,205.776802,0,34,39.65633406,Other,The noise shield is incrediable.,1
-170162,0,242,906,1166,ProdFailure,2,0,0,226.1163866,1,27,34.49993837,Server,No real improvement.,0
+215458,0,214,909,1217,ProdFailure,3,0,0,221.515426,2,26,34.88554143,Server,01 I recommend more CARES funding and CGM's,0
+954367,0,214,445,809,,,,,,,,37.82721876,,2 I recommend more CARES funding and CGM's,1
+559293,0,214,494,694,ProdFailure,25,0,0,314.6389579,2,32,35.98208365,Other,3 I recommend more CARES funding and CGM's,1
+289495,0,214,643,993,ProdGlitch,18,0,0,627.7023895,1,23,20.68871482,Laptop,4 I recommend more CARES funding and CGM's,0
+123218,0,214,922,1337,ProdFailure,11,0,0,81.44638031,3,15,41.39546183,Other,5 I recommend more CARES funding and CGM's,1
+232875,0,214,72,247,ProdFailure,,0,0,62.26356587,2,18,41.57670052,Other,6 I recommend more CARES funding and CGM's,0
+387415,0,214,416,1034,ProdGlitch,6,0,0,122.1533442,0,15,31.61467953,Other,7 I recommend more CARES funding and CGM's,0
+536701,0,214,701,948,ProdFailure,4,0,0,109.780321,1,29,35.63050485,Other,8 I recommend more CARES funding and CGM's,1
+502935,0,214,1431,1850,ProdGlitch,7,0,0,314.9842869,0,17,43.10300163,Desktop,9 I recommend more CARES funding and CGM's,0
+425451,0,214,1280,1678,ProdFailure,6,0,0,180.4173542,0,38,17.49570049,Laptop,10 I recommend more CARES funding and CGM's,0
+435974,1,214,951,1323,ProdFailure,7,1,5,206.1276648,1,18,36.23566539,Software,11 I recommend more CARES funding and CGM's,1
+802190,0,215,1007,1469,ProdGlitch,11,0,0,153.2238882,1,23,34.96596275,Laptop,12 I recommend more CARES funding and CGM's,1
+246739,1,215,840,1157,ProdFailure,10,,1,122.2897915,1,30,49.37972914,Laptop,13 I recommend more CARES funding and CGM's,0
+792710,0,215,95,308,ProdFailure,,0,0,58.11746362,2,19,42.49201034,Other,14 I recommend more CARES funding and CGM's,1
+687900,0,215,1077,1605,ProdFailure,16,0,0,195.48568,0,25,32.37876814,Desktop,15 I recommend more CARES funding and CGM's,0
+17809,0,215,1107,1780,ProdFailure,6,0,0,212.6040797,4,24,43.3108563,Software,16 I recommend more CARES funding and CGM's,1
+495017,0,215,1416,1842,ProdGlitch,8,0,0,311.4261279,0,16,44.59015523,Desktop,17 I recommend more CARES funding and CGM's,0
+502153,0,215,259,473,ProdFailure,1,,,305.8497165,,25,36.60061306,Other,18 I recommend more CARES funding and CGM's,1
+105784,0,215,1293,2847,ProdGlitch,3,0,0,199.2195955,0,15,30.40625943,Desktop,19 I recommend more CARES funding and CGM's,1
+605738,0,215,1358,1869,ProdFailure,18,0,0,227.3474864,1,24,42.66067749,Laptop,20 I recommend more CARES funding and CGM's,0
+36009,0,215,969,1432,ProdFailure,20,0,0,173.3416649,0,25,39.85872689,Laptop,21 I recommend more CARES funding and CGM's,0
+616862,0,215,1254,2005,ProdGlitch,13,0,0,205.2783646,0,22,36.89339399,Laptop,22 I recommend more CARES funding and CGM's,1
+213022,0,215,900,1115,ProdFailure,24,0,0,243.5,1,27,,Other,23 I recommend more CARES funding and CGM's,0
+159891,0,215,188,425,ProdFailure,27,0,0,304.3666667,,13,,Other,24 I recommend more CARES funding and CGM's,1
+680364,0,215,1537,1910,ProdFailure,10,,,105.359931,0,23,31.79238783,Laptop,25 I recommend more CARES funding and CGM's,0
+205917,0,215,716,966,ProdGlitch,13,0,0,135.9405415,0,13,37.87247372,Software,26 I recommend more CARES funding and CGM's,1
+362024,0,215,305,533,ProdFailure,1,,,319.7808023,,25,33.44900986,Other,27 I recommend more CARES funding and CGM's,1
+383581,0,215,474,786,,,,,,,,38.46833167,,28 I recommend more CARES funding and CGM's,0
+609524,0,215,943,1429,ProdFailure,22,1,0,170.2049996,0,25,39.56664624,Laptop,29 I recommend more CARES funding and CGM's,0
+171274,0,215,903,1037,ProdFailure,2,0,0,128.6427857,0,20,34.28267592,Laptop,30 I recommend more CARES funding and CGM's,0
+569570,0,215,353,788,ProdGlitch,25,0,0,261.8666667,1,7,,Other,31 I recommend more CARES funding and CGM's,0
+669905,0,215,101,756,ProdFailure,,0,0,247.8139714,0,22,39.14851242,Software,32 I recommend more CARES funding and CGM's,1
+708733,0,215,673,865,ProdFailure,5,,,158.6407067,,15,37.75484259,Software,33 I recommend more CARES funding and CGM's,0
+204162,0,215,586,908,ProdFailure,17,0,0,196.8087927,1,22,31.69796036,Other,34 I recommend more CARES funding and CGM's,0
+254244,1,216,1442,1907,ProdFailure,0,1,4,313.4273217,2,18,37.97135495,Desktop,35 I recommend more CARES funding and CGM's,1
+599749,0,216,300,513,ProdFailure,0,,,312.1997839,,25,35.37968123,Other,36 I recommend more CARES funding and CGM's,0
+472062,0,216,454,756,ProdFailure,2,0,1,230.2422347,0,11,33.45738088,Software,37 I recommend more CARES funding and CGM's,1
+697023,0,216,1056,1554,ProdFailure,16,0,0,193.0488032,0,25,33.60060846,Desktop,38 I recommend more CARES funding and CGM's,0
+824603,0,216,771,1854,,11,0,0,358.4284243,0,17,33.16743122,Other,39 I recommend more CARES funding and CGM's,1
+976058,0,216,367,683,ProdFailure,11,0,2,121.4942487,0,22,41.13829939,Software,40 I recommend more CARES funding and CGM's,0
+57468,0,216,1057,1390,ProdFailure,11,0,2,213.0345218,0,24,40.9030584,Software,41 I recommend more CARES funding and CGM's,1
+736473,0,216,617,1090,ProdFailure,14,0,2,267.8877899,0,35,26.09217153,Laptop,42 I recommend more CARES funding and CGM's,0
+305153,0,216,,659,ProdGlitch,8,0,0,111.0680978,1,5,19.42908427,Software,43 I recommend more CARES funding and CGM's,1
+835418,0,216,708,965,ProdGlitch,13,0,0,136.3971417,0,14,37.58053042,Software,44 I recommend more CARES funding and CGM's,0
+46207,0,216,411,654,ProdFailure,25,0,0,303.2340527,3,32,35.24732771,Other,45 I recommend more CARES funding and CGM's,1
+110595,0,216,1526,1956,ProdFailure,14,,,127.7781102,0,24,29.15307149,Laptop,46 I recommend more CARES funding and CGM's,1
+434806,0,216,1063,1473,ProdGlitch,,,,,,,39.13764463,,47 I recommend more CARES funding and CGM's,0
+243270,0,216,667,1052,ProdGlitch,13,0,0,145.9353838,0,14,37.11491559,Software,48 I recommend more CARES funding and CGM's,0
+974120,0,216,592,981,ProdGlitch,18,0,0,626.7713928,1,23,21.24168423,Laptop,49 I recommend more CARES funding and CGM's,1
+896664,0,216,1089,1427,ProdGlitch,9,0,0,162.446914,0,23,33.41977874,Laptop,50 I recommend more CARES funding and CGM's,0
+572515,0,216,,542,ProdFailure,,0,1,303.4333333,0,19,,Other,51 I recommend more CARES funding and CGM's,0
+579808,1,216,1549,,ProdFailure,,2,4,165.60083,0,43,38.01491727,Server,52 I recommend more CARES funding and CGM's,1
+106296,0,216,434,687,ProdFailure,11,0,1,121.950991,1,22,40.91647738,Software,53 I recommend more CARES funding and CGM's,1
+920936,0,216,939,1477,ProdFailure,23,0,0,156.6673122,0,25,40.19063608,Laptop,54 I recommend more CARES funding and CGM's,1
+529066,0,216,944,1359,ProdFailure,,0,0,205.0168354,0,20,26.80094617,Laptop,55 I recommend more CARES funding and CGM's,1
+382124,0,217,583,784,ProdFailure,5,0,0,104.1747704,0,16,38.18843548,,56 I recommend more CARES funding and CGM's,1
+684247,0,217,568,783,ProdFailure,10,1,0,70.69107272,3,28,36.61054006,Desktop,57 I recommend more CARES funding and CGM's,0
+198664,0,217,702,1863,,11,0,0,356.886499,1,16,30.18400134,Other,58 I recommend more CARES funding and CGM's,1
+514816,0,217,625,965,ProdGlitch,18,0,1,615.1333732,0,24,21.9726752,Laptop,59 I recommend more CARES funding and CGM's,1
+313224,0,217,86,755,ProdFailure,,0,0,257.1207218,0,21,38.73921891,Software,60 I recommend more CARES funding and CGM's,0
+22513,0,217,607,145,ProdFailure,5,,,62.85635695,1,17,40.3158193,Other,61 I recommend more CARES funding and CGM's,0
+392716,0,217,292,538,ProdFailure,0,,,300.6792922,,24,35.69801744,Other,62 I recommend more CARES funding and CGM's,1
+775159,0,217,792,967,ProdFailure,5,0,0,64.50842359,6,24,38.07896313,Desktop,63 I recommend more CARES funding and CGM's,1
+759856,0,217,456,670,ProdFailure,25,0,0,293.7620767,1,32,34.28537258,Other,64 I recommend more CARES funding and CGM's,0
+662362,0,217,247,483,ProdFailure,0,,,309.0284455,,24,33.8772643,Other,65 I recommend more CARES funding and CGM's,0
+72619,0,217,295,539,ProdFailure,14,0,0,185.6820797,1,19,37.75154584,Laptop,66 I recommend more CARES funding and CGM's,0
+337153,1,217,923,1687,,13,2,5,249.2427629,,24,29.3690264,Desktop,67 I recommend more CARES funding and CGM's,0
+504841,0,217,690,980,ProdFailure,2,,,232.0666667,5,24,,Desktop,68 I recommend more CARES funding and CGM's,1
+586171,0,217,930,1404,ProdGlitch,5,0,0,166.1776578,0,32,32.77507936,Laptop,69 I recommend more CARES funding and CGM's,1
+108875,0,217,938,1472,ProdFailure,22,0,0,153.6845963,0,25,39.53395424,Laptop,70 I recommend more CARES funding and CGM's,1
+818383,0,217,470,716,ProdFailure,10,0,0,177.6020656,1,41,37.12536175,Laptop,71 I recommend more CARES funding and CGM's,0
+941332,0,217,456,681,ProdFailure,5,0,0,166.8710357,1,27,36.40831543,Software,72 I recommend more CARES funding and CGM's,0
+352424,0,217,206,520,ProdFailure,26,0,2,199.9854317,0,25,27.11768955,Other,73 I recommend more CARES funding and CGM's,1
+548483,0,217,916,1261,ProdGlitch,10,0,0,131.875354,1,23,30.96129202,Desktop,74 I recommend more CARES funding and CGM's,1
+102213,0,217,599,941,ProdFailure,0,0,0,154.5525474,1,21,34.7717086,Software,75 I recommend more CARES funding and CGM's,1
+697300,0,217,883,1395,ProdFailure,11,0,0,89.83955821,3,14,39.09887429,Other,76 I recommend more CARES funding and CGM's,1
+361096,0,217,1288,1729,ProdFailure,4,0,0,165.3102818,0,37,20.3428108,Laptop,77 I recommend more CARES funding and CGM's,0
+102120,0,217,721,934,ProdFailure,2,0,0,115.5294894,1,29,33.45667038,Other,78 I recommend more CARES funding and CGM's,1
+836500,0,217,1885,2342,ProdFailure,0,0,0,301.5210741,0,26,37.33952006,Laptop,79 I recommend more CARES funding and CGM's,1
+883282,1,217,249,922,ProdFailure,26,0,6,238.3696373,1,20,16.39716087,Other,80 I recommend more CARES funding and CGM's,0
+326733,0,217,1873,2305,ProdFailure,2,0,0,270.47904,0,27,38.99923204,Laptop,81 I recommend more CARES funding and CGM's,1
+962056,1,218,210,450,,20,0,0,256.7,1,19,,Laptop,82 I recommend more CARES funding and CGM's,0
+499184,0,218,323,496,ProdGlitch,3,1,,115.1302076,,10,26.92602147,Server,83 I recommend more CARES funding and CGM's,1
+829094,0,218,481,801,ProdFailure,13,0,0,111.9986308,1,9,4.142703972,Other,84 I recommend more CARES funding and CGM's,0
+13355,0,218,900,1223,ProdFailure,3,0,0,212.6954676,1,26,34.84691939,Server,85 I recommend more CARES funding and CGM's,0
+182955,0,218,800,985,ProdFailure,5,0,0,73.31793013,7,24,37.13828397,Desktop,86 I recommend more CARES funding and CGM's,1
+866111,0,218,,255,ProdFailure,8,0,0,114.5417511,1,19,21.82563105,Laptop,87 I recommend more CARES funding and CGM's,1
+687755,0,218,828,1147,ProdFailure,,0,0,190.0874448,1,24,40.74821176,Other,88 I recommend more CARES funding and CGM's,0
+675077,0,218,673,990,ProdFailure,,2,1,245.0877745,1,14,41.56766275,Other,89 I recommend more CARES funding and CGM's,1
+293361,0,218,,603,ProdFailure,,0,1,300.8414288,0,18,39.41913658,Other,90 I recommend more CARES funding and CGM's,1
+921907,0,218,481,703,ProdFailure,2,0,0,227.9862791,0,12,36.0618164,Software,91 I recommend more CARES funding and CGM's,0
+406990,1,218,997,1280,ProdGlitch,15,1,2,286.1,3,26,,Laptop,92 I recommend more CARES funding and CGM's,1
+171836,0,218,1072,1612,ProdFailure,15,0,0,187.2974769,0,26,31.55694874,Desktop,93 I recommend more CARES funding and CGM's,1
+636407,0,218,967,1236,ProdFailure,3,0,0,218.7303331,2,27,35.87449455,Server,94 I recommend more CARES funding and CGM's,0
+357483,0,218,1338,1668,ProdFailure,6,0,0,169.7671445,0,37,20.05952718,Laptop,95 I recommend more CARES funding and CGM's,0
+60661,0,218,415,715,ProdFailure,25,0,0,308.7370531,2,32,34.36936756,Other,96 I recommend more CARES funding and CGM's,1
+876254,0,218,,597,ProdFailure,,0,0,304.7369303,0,18,36.71311371,Other,97 I recommend more CARES funding and CGM's,0
+328927,1,218,763,1022,ProdFailure,6,0,1,61.64132538,4,29,41.03238603,Software,98 I recommend more CARES funding and CGM's,0
+46419,0,219,1476,1930,ProdFailure,13,,,100.775926,1,23,29.5314444,Laptop,99 I recommend more CARES funding and CGM's,1
+752863,0,219,535,747,ProdFailure,10,0,1,191.5519093,1,42,40.49010197,Laptop,100 I recommend more CARES funding and CGM's,0
+569933,0,219,,802,ProdFailure,5,0,0,402.0868105,0,23,21.98994578,FARMING,101 I recommend more CARES funding and CGM's,1
+193802,0,219,639,1021,ProdFailure,10,,0,107.4498947,2,19,36.1837344,Software,102 I recommend more CARES funding and CGM's,0
+923849,0,219,913,1391,ProdFailure,,0,0,201.6855482,0,21,30.01955513,Laptop,103 I recommend more CARES funding and CGM's,1
+158586,0,219,917,1418,ProdFailure,,0,0,207.6532895,0,21,28.21673943,Laptop,104 I recommend more CARES funding and CGM's,1
+646357,0,219,1043,1448,ProdGlitch,,,,,,,38.01073398,,105 I recommend more CARES funding and CGM's,0
+380934,0,219,518,689,ProdFailure,10,0,0,188.9786171,0,42,38.99975416,Laptop,106 I recommend more CARES funding and CGM's,1
+972214,1,219,527,753,ProdFailure,5,0,1,217.0209402,6,23,34.01591498,Laptop,107 I recommend more CARES funding and CGM's,0
+570070,0,219,623,1138,ProdFailure,15,0,3,281.0591408,1,36,26.03170911,Laptop,108 I recommend more CARES funding and CGM's,1
+641986,0,219,668,1048,ProdFailure,7,,1,116.5339256,1,18,38.88482695,Software,109 I recommend more CARES funding and CGM's,0
+565831,0,219,104,248,ProdFailure,,0,0,61.28669845,2,19,40.01662162,Other,110 I recommend more CARES funding and CGM's,0
+570441,1,219,1080,1449,ProdFailure,13,0,0,260.7666667,1,22,,Other,111 I recommend more CARES funding and CGM's,1
+510207,0,219,614,874,ProdFailure,5,,,166.6108166,,16,38.2012104,Software,112 I recommend more CARES funding and CGM's,1
+303485,0,219,534,774,ProdFailure,10,0,0,192.8877492,1,42,40.95631078,Laptop,113 I recommend more CARES funding and CGM's,1
+451242,0,219,614,1030,ProdFailure,7,,1,125.5230236,1,17,37.00676675,Software,114 I recommend more CARES funding and CGM's,1
+694387,0,219,701,1883,,9,0,0,367.5414905,0,17,32.69251534,Other,115 I recommend more CARES funding and CGM's,1
+99486,0,219,618,920,ProdFailure,5,,,171.5767001,,16,37.80040089,Software,116 I recommend more CARES funding and CGM's,1
+337242,0,219,1489,1188,,6,0,0,93.92588206,3,34,30.32211463,Laptop,117 I recommend more CARES funding and CGM's,0
+455010,0,219,,570,ProdFailure,,0,0,308.6034448,0,18,39.2346081,Other,118 I recommend more CARES funding and CGM's,1
+528824,0,219,943,1406,ProdFailure,,0,0,208.2417578,0,20,29.18897974,Laptop,119 I recommend more CARES funding and CGM's,1
+542464,0,219,1057,1424,ProdGlitch,8,0,0,145.3771766,0,22,32.33389935,Laptop,120 I recommend more CARES funding and CGM's,1
+673062,0,220,1420,1814,ProdFailure,6,,,162.5386403,5,42,41.27082013,Laptop,121 I recommend more CARES funding and CGM's,1
+219628,0,220,367,1000,ProdGlitch,6,0,0,138.9424576,0,14,30.78315421,Other,122 I recommend more CARES funding and CGM's,0
+850821,0,220,716,980,ProdFailure,9,0,0,191.3136088,1,19,34.92102106,Desktop,123 I recommend more CARES funding and CGM's,1
+567669,0,220,480,884,ProdFailure,12,0,0,96.33643462,0,10,5.226673619,Other,124 I recommend more CARES funding and CGM's,0
+620907,0,220,,723,ProdGlitch,9,0,0,120.5320184,2,4,20.17621345,Software,125 I recommend more CARES funding and CGM's,1
+209500,0,220,157,601,ProdFailure,27,0,1,213.4142381,0,24,25.57680965,Other,126 I recommend more CARES funding and CGM's,1
+37026,0,220,540,978,ProdFailure,1,0,0,192.7333333,0,26,,Laptop,127 I recommend more CARES funding and CGM's,0
+293456,0,220,640,890,ProdFailure,8,1,1,133.2666667,4,26,,Laptop,128 I recommend more CARES funding and CGM's,0
+878654,0,220,480,809,ProdFailure,6,0,0,262.7333333,2,26,,Desktop,129 I recommend more CARES funding and CGM's,1
+926835,0,220,718,990,ProdFailure,18,0,0,201.8666667,1,13,,Other,130 I recommend more CARES funding and CGM's,0
+703842,1,220,820,125,ProdFailure,3,0,0,117.7666667,6,23,,Laptop,131 I recommend more CARES funding and CGM's,1
+936145,1,220,742,1098,ProdFailure,1,1,0,317.5333333,4,42,,Laptop,132 I recommend more CARES funding and CGM's,1
+452007,1,220,961,1220,ProdFailure,24,0,2,301.3,3,36,,Desktop,133 I recommend more CARES funding and CGM's,1
+430621,1,220,920,,ProdFailure,4,,12,218,1,39,,Software,134 I recommend more CARES funding and CGM's,1
+978404,1,220,1240,1550,ProdFailure,1,,7,130.3,,55,,FARMING,135 I recommend more CARES funding and CGM's,0
+53354,0,220,816,1239,ProdFailure,8,0,0,285.1417502,1,16,37.41710801,Other,136 I recommend more CARES funding and CGM's,0
+643697,0,220,763,1039,ProdFailure,20,0,0,202.578152,1,13,38.71719491,Other,137 I recommend more CARES funding and CGM's,1
+523840,0,220,888,1213,ProdGlitch,12,0,0,115.8322132,2,24,31.10896086,Desktop,138 I recommend more CARES funding and CGM's,1
+507490,0,220,1433,1837,ProdFailure,6,,,174.8462897,3,43,42.22116463,Laptop,139 I recommend more CARES funding and CGM's,0
+386833,0,220,701,950,ProdFailure,2,0,0,97.90858291,2,29,32.52452824,Other,140 I recommend more CARES funding and CGM's,1
+673503,0,220,1889,2319,ProdFailure,2,0,0,294.9601692,0,26,36.43459137,Laptop,141 I recommend more CARES funding and CGM's,0
+948265,0,220,532,850,ProdFailure,20,0,0,218.4841129,1,21,32.8557014,Other,142 I recommend more CARES funding and CGM's,0
+534264,0,220,612,917,ProdFailure,0,0,0,145.4891553,0,21,34.34790875,Software,143 I recommend more CARES funding and CGM's,0
+153136,0,220,610,966,ProdGlitch,17,0,0,638.2753611,1,23,21.45734981,Laptop,144 I recommend more CARES funding and CGM's,0
+512611,0,221,696,1021,ProdGlitch,13,0,0,164.7849474,0,28,36.27847391,Desktop,145 I recommend more CARES funding and CGM's,0
+173707,0,221,927,1263,ProdGlitch,11,0,0,122.2657812,1,24,30.84350527,Desktop,146 I recommend more CARES funding and CGM's,1
+280712,0,221,841,977,ProdGlitch,8,,,,,,,,147 I recommend more CARES funding and CGM's,0
+121442,0,221,953,1179,ProdFailure,25,0,0,233.7484518,1,27,41.52372299,Other,148 I recommend more CARES funding and CGM's,0
+490631,0,221,603,1017,ProdFailure,8,,0,97.02322633,1,17,35.68152132,Software,149 I recommend more CARES funding and CGM's,0
+435729,0,221,570,806,ProdFailure,12,0,0,108.7492561,1,10,7.39014306,Other,150 I recommend more CARES funding and CGM's,0
+392837,0,221,240,490,ProdFailure,14.4,0,0,109.5666667,2,25,,Other,151 I recommend more CARES funding and CGM's,0
+550986,0,221,730,1057,ProdFailure,9,0,1,293.2333333,2,29,,Desktop,152 I recommend more CARES funding and CGM's,0
+692090,1,221,570,830,ProdFailure,7,0,0,,0,0,,Other,153 I recommend more CARES funding and CGM's,1
+618756,0,221,861,1414,ProdFailure,11,0,0,89.16146609,2,14,40.67729771,Other,154 I recommend more CARES funding and CGM's,1
+972091,0,221,1324,1706,ProdFailure,4,0,0,180.0368768,0,37,21.23609046,Laptop,155 I recommend more CARES funding and CGM's,0
+380340,0,221,,651,ProdGlitch,9,0,0,128.1567931,1,4,18.8829556,Software,156 I recommend more CARES funding and CGM's,1
+916472,0,221,334,523,ProdGlitch,4,1,,134.0000742,,10,24.02393073,Server,157 I recommend more CARES funding and CGM's,1
+200760,0,221,459,672,ProdFailure,8,0,1,60.45700477,2,18,34.78092033,Other,158 I recommend more CARES funding and CGM's,1
+522656,0,221,360,847,ProdGlitch,25,0,0,257.8457289,0,6,24.52600298,Other,159 I recommend more CARES funding and CGM's,1
+671874,0,222,1385,1804,ProdFailure,5,,,195.6328077,4,43,41.20539901,Laptop,160 I recommend more CARES funding and CGM's,1
+185975,0,222,451,853,ProdGlitch,24,0,0,275.601041,1,7,23.46160875,Other,161 I recommend more CARES funding and CGM's,0
+648200,0,222,,609,ProdFailure,,0,0,288.4596954,0,18,37.74701961,Other,162 I recommend more CARES funding and CGM's,1
+657960,0,222,1257,1626,ProdFailure,3,,0,374.2114868,,51,37.58435894,Software,163 I recommend more CARES funding and CGM's,0
+485754,0,222,1381,1801,ProdFailure,22,0,0,240.703069,1,24,40.62189416,Laptop,164 I recommend more CARES funding and CGM's,1
+426940,0,222,1023,1482,ProdGlitch,11,0,0,169.088974,0,22,34.47287973,Laptop,165 I recommend more CARES funding and CGM's,0
+524021,0,222,722,989,ProdFailure,,2,1,242.2161953,2,13,42.77356841,Other,166 I recommend more CARES funding and CGM's,1
+767651,0,222,939,1161,ProdFailure,2,0,0,205.0294085,2,26,34.93940311,Server,167 I recommend more CARES funding and CGM's,0
+35722,0,222,574,1021,ProdGlitch,18,0,0,628.1580616,1,24,20.4962161,Laptop,168 I recommend more CARES funding and CGM's,1
+943605,0,222,986,1409,ProdFailure,,0,0,207.2889332,0,20,29.21889542,Laptop,169 I recommend more CARES funding and CGM's,0
+943418,0,222,648,968,ProdGlitch,17,0,0,639.0581723,0,24,22.61418191,Laptop,170 I recommend more CARES funding and CGM's,0
+687377,0,222,676,1090,ProdGlitch,4,0,0,203.9649128,0,12,31.5290287,Other,171 I recommend more CARES funding and CGM's,1
+670198,0,222,97,339,ProdFailure,0,0,0,28.52378272,1,3,29.5997802,Other,172 I recommend more CARES funding and CGM's,0
+207239,0,222,1378,1829,ProdGlitch,6,0,0,317.3561249,0,17,44.96871369,Desktop,173 I recommend more CARES funding and CGM's,0
+192371,0,223,650,1047,ProdFailure,8,,0,117.1618153,2,18,38.34866301,Software,174 I recommend more CARES funding and CGM's,1
+196382,0,223,523,1029,ProdFailure,2,1,4,174.536412,0,47,36.85308497,Software,175 I recommend more CARES funding and CGM's,1
+464604,0,223,,1365,ProdGlitch,1,0,0,311.6590812,3,20,29.91070776,Other,176 I recommend more CARES funding and CGM's,1
+260288,0,223,690,1052,ProdFailure,8,,0,96.34213992,2,17,35.75510673,Software,177 I recommend more CARES funding and CGM's,1
+388889,0,223,246,516,ProdFailure,28,0,0,316.6974746,,12,30.67643445,Other,178 I recommend more CARES funding and CGM's,0
+476445,1,223,,1350,ProdFailure,9,,,,,,,Software,179 I recommend more CARES funding and CGM's,0
+332792,1,223,756,1020,ProdFailure,5,0,1,64.93333333,2,28,,Desktop,180 I recommend more CARES funding and CGM's,0
+814635,1,223,718,1000,ProdFailure,0.1,0,0,220.1333333,1,26,,FARMING,181 I recommend more CARES funding and CGM's,0
+179853,0,223,728,1864,,10,0,0,367.2473584,1,16,30.33358791,Other,182 I recommend more CARES funding and CGM's,0
+326493,0,223,343,1031,ProdGlitch,6,0,0,141.6770299,0,14,30.47179852,Other,183 I recommend more CARES funding and CGM's,1
+559866,0,223,215,425,ProdFailure,25,0,0,297.6744627,,13,33.11701736,Other,184 I recommend more CARES funding and CGM's,0
+737574,0,223,598,908,ProdFailure,2,0,0,161.4029057,1,22,36.17425125,Software,185 I recommend more CARES funding and CGM's,0
+450094,0,223,1017,1457,ProdGlitch,,,,,,,38.7199658,,186 I recommend more CARES funding and CGM's,1
+638559,0,223,933,1436,ProdFailure,21,0,0,176.4166175,0,25,40.47109214,Laptop,187 I recommend more CARES funding and CGM's,0
+748047,0,223,605,1117,ProdFailure,15,0,3,291.61872,1,35,27.70517064,Laptop,188 I recommend more CARES funding and CGM's,1
+879210,0,223,895,1495,ProdFailure,23,0,0,157.6517299,0,24,41.85930497,Laptop,189 I recommend more CARES funding and CGM's,0
+878934,0,223,,223,ProdFailure,5,0,0,96.64268699,1,18,22.19662471,Laptop,190 I recommend more CARES funding and CGM's,0
+15687,0,223,1339,2811,ProdGlitch,2,0,0,181.1539882,0,15,28.89929961,Desktop,191 I recommend more CARES funding and CGM's,0
+283514,0,224,1030,1325,ProdFailure,10,2,0,187.7333333,5,18,,Desktop,192 I recommend more CARES funding and CGM's,1
+122019,0,224,745,1023,ProdFailure,18,0,0,206.5813951,1,12,40.84802282,Other,193 I recommend more CARES funding and CGM's,1
+283723,0,224,386,1058,ProdGlitch,6,0,0,125.2428417,0,14,32.77827083,Other,194 I recommend more CARES funding and CGM's,0
+905351,0,224,1359,1818,ProdGlitch,7,0,0,316.9929061,0,17,45.00681809,Desktop,195 I recommend more CARES funding and CGM's,0
+113073,0,224,982,1355,ProdFailure,,0,0,194.2820992,0,20,29.37360717,Laptop,196 I recommend more CARES funding and CGM's,1
+796185,0,224,655,1043,ProdGlitch,14,0,0,141.8128234,0,13,36.22194314,Software,197 I recommend more CARES funding and CGM's,1
+221616,0,224,525,693,ProdFailure,2,0,0,224.2413307,0,12,33.82410789,Software,198 I recommend more CARES funding and CGM's,0
+718107,0,224,728,957,ProdFailure,5,0,0,75.95573527,7,23,37.50722389,Desktop,199 I recommend more CARES funding and CGM's,0
+920205,0,224,1279,1677,ProdFailure,1,,0,377.8649847,,52,36.43872408,Software,200 I recommend more CARES funding and CGM's,0
+349518,0,224,1301,1641,ProdFailure,6,0,0,173.6413388,0,39,19.64066727,Laptop,201 I recommend more CARES funding and CGM's,1
+479742,0,224,931,1209,ProdFailure,23,0,0,232.8554837,0,27,39.74431431,Other,202 I recommend more CARES funding and CGM's,1
+540239,0,224,406,769,ProdFailure,9,0,0,276.275914,0,19,39.7301928,Laptop,203 I recommend more CARES funding and CGM's,0
+846507,0,224,802,1113,ProdFailure,,0,0,186.6311118,1,24,38.93617569,Other,204 I recommend more CARES funding and CGM's,1
+568689,0,224,899,1216,ProdGlitch,11,0,0,111.9824201,2,24,30.9911741,Desktop,205 I recommend more CARES funding and CGM's,0
+548439,0,224,710,1023,ProdGlitch,14,0,0,137.1896556,0,14,36.12206849,Software,206 I recommend more CARES funding and CGM's,1
+472837,1,224,514,681,ProdFailure,9,0,0,31.16869601,2,8,37.95217991,Desktop,207 I recommend more CARES funding and CGM's,1
+656306,0,224,623,882,ProdFailure,3,,,163.0564094,,16,37.17139554,Software,208 I recommend more CARES funding and CGM's,1
+213040,0,224,697,1076,ProdFailure,2,,,248.3932369,5,23,40.96299512,Desktop,209 I recommend more CARES funding and CGM's,1
+419589,1,224,157,404,ProdGlitch,0,1,3,117.6666667,0,12,,Other,210 I recommend more CARES funding and CGM's,0
+834141,0,224,955,1245,ProdGlitch,9,0,0,140.6955024,1,24,31.86981041,Desktop,211 I recommend more CARES funding and CGM's,0
+85834,1,224,255,540,,20,0,0,251.358003,0,19,25.20270637,Laptop,212 I recommend more CARES funding and CGM's,0
+244375,0,224,914,1008,ProdFailure,2,1,0,132.2166218,0,20,35.68247123,Laptop,213 I recommend more CARES funding and CGM's,1
+849837,1,224,,1396,ProdFailure,10,,,,,,35.23626524,Software,214 I recommend more CARES funding and CGM's,1
+250575,0,224,1065,1572,ProdFailure,15,0,0,186.6280966,0,25,33.4306376,Desktop,215 I recommend more CARES funding and CGM's,1
+349960,0,224,790,1050,ProdFailure,,0,0,179.458917,2,25,38.30639822,Other,216 I recommend more CARES funding and CGM's,1
+861395,0,224,166,568,ProdFailure,25,0,1,199.7384646,0,24,27.02778743,Other,217 I recommend more CARES funding and CGM's,1
+393829,0,224,326,566,ProdFailure,13,0,0,101.7583551,1,25,31.47003128,Other,218 I recommend more CARES funding and CGM's,0
+568281,0,224,476,657,ProdFailure,6,0,0,174.5578971,2,27,36.21976783,Software,219 I recommend more CARES funding and CGM's,0
+590264,0,224,839,1110,ProdFailure,,0,0,175.4089363,1,25,39.97273176,Other,220 I recommend more CARES funding and CGM's,1
+793461,0,224,377,597,ProdFailure,,0,0,219.4892985,0,12,41.14904123,Other,221 I recommend more CARES funding and CGM's,0
+197313,0,224,816,1259,ProdFailure,9,0,0,289.5196987,1,16,35.5136585,Other,222 I recommend more CARES funding and CGM's,0
+264535,0,224,717,1016,ProdFailure,,2,1,239.903304,2,14,42.81636756,Other,223 I recommend more CARES funding and CGM's,1
+858553,0,224,183,383,ProdFailure,1,0,0,37.23500048,2,3,29.4760034,Other,224 I recommend more CARES funding and CGM's,0
+399775,0,225,442,868,ProdGlitch,24,0,0,256.2869189,1,6,26.85325902,Other,225 I recommend more CARES funding and CGM's,0
+534348,0,225,1277,1679,ProdFailure,1,,0,367.1895151,,51,37.88804981,Software,226 I recommend more CARES funding and CGM's,1
+491642,0,225,,1432,,,,,,,,,,227 I recommend more CARES funding and CGM's,1
+622419,0,225,621,957,ProdFailure,4,,,187.1661489,,16,37.46041757,Software,228 I recommend more CARES funding and CGM's,0
+390536,0,225,520,872,ProdFailure,7,0,0,232.3333333,1,20,,Other,229 I recommend more CARES funding and CGM's,0
+621073,0,225,,428,ProdFailure,,,,89.3,,13,,Other,230 I recommend more CARES funding and CGM's,0
+319854,1,225,607,910,ProdFailure,13,0,0,145.0666667,6,29,,Server,231 I recommend more CARES funding and CGM's,0
+896658,0,225,577,957,ProdFailure,3,0,0,151.7150658,1,21,34.86359608,Software,232 I recommend more CARES funding and CGM's,0
+908998,0,225,484,869,ProdFailure,14,0,0,94.9280885,1,9,4.029951372,Other,233 I recommend more CARES funding and CGM's,0
+158337,0,225,764,1055,ProdFailure,,1,1,235.5417762,2,13,43.06166913,Other,234 I recommend more CARES funding and CGM's,1
+111318,0,225,961,1185,ProdGlitch,10,0,0,118.15195,1,24,33.20054802,Desktop,235 I recommend more CARES funding and CGM's,1
+111007,0,225,408,768,ProdFailure,8,0,0,270.2601967,0,18,39.95457279,Laptop,236 I recommend more CARES funding and CGM's,1
+119118,0,225,735,881,ProdFailure,2,0,0,111.4005357,1,30,33.51922814,Other,237 I recommend more CARES funding and CGM's,1
+83102,0,225,873,1406,ProdFailure,24,0,0,146.2961719,0,25,39.87676993,Laptop,238 I recommend more CARES funding and CGM's,1
+114946,0,225,750,1147,ProdFailure,9,0,1,294.2971661,1,28,30.61105116,Desktop,239 I recommend more CARES funding and CGM's,1
+564542,0,225,,248,ProdFailure,7,0,0,97.53661995,1,19,19.47227247,Laptop,240 I recommend more CARES funding and CGM's,0
+868970,0,225,1360,1808,,26,,4,329.4072371,1,27,33.03141554,Desktop,241 I recommend more CARES funding and CGM's,0
+839120,0,226,1332,1728,ProdFailure,6,1,0,190.2475602,0,37,19.97395503,Laptop,242 I recommend more CARES funding and CGM's,0
+520989,0,226,590,991,ProdFailure,0,0,0,195.0838618,0,26,33.40421221,Laptop,243 I recommend more CARES funding and CGM's,0
+456925,0,226,911,1121,ProdFailure,24,0,0,251.5824035,1,26,42.07798838,Other,244 I recommend more CARES funding and CGM's,0
+871027,0,226,964,1204,ProdGlitch,9,0,0,112.8403356,2,24,31.86591683,Desktop,245 I recommend more CARES funding and CGM's,0
+42813,0,226,1421,1791,ProdFailure,5,,,200.8339688,4,42,41.00966476,Laptop,246 I recommend more CARES funding and CGM's,1
+817961,0,226,725,915,ProdFailure,2,0,0,99.00046796,2,30,35.26211359,Other,247 I recommend more CARES funding and CGM's,1
+383486,0,226,633,908,ProdFailure,3,,,174.3265608,,15,38.74248161,Software,248 I recommend more CARES funding and CGM's,1
+354556,0,226,,1448,,,,,,,,16.38239069,,249 I recommend more CARES funding and CGM's,0
+678369,0,226,,553,ProdFailure,,0,1,316.0968745,0,18,38.13586689,Other,250 I recommend more CARES funding and CGM's,1
+153878,0,226,2330,2600,ProdGlitch,6,1,0,244.5333333,3,51,,Server,251 I recommend more CARES funding and CGM's,1
+48657,1,226,696,923,ProdFailure,16,0,6,240.4333333,0,30,,Other,252 I recommend more CARES funding and CGM's,1
+409058,1,226,1550,1870,ProdFailure,0.1,0,0,253.6,0,27,,Desktop,253 I recommend more CARES funding and CGM's,1
+164013,1,226,789,1033,ProdFailure,11,0,0,259.319755,1,14,27.74405551,Desktop,254 I recommend more CARES funding and CGM's,1
+946900,0,226,1098,1391,ProdFailure,9,1,0,195.4588258,4,18,40.20610642,Desktop,255 I recommend more CARES funding and CGM's,0
+308103,0,226,319,476,ProdGlitch,4,0,,133.447479,,11,24.20108619,Server,256 I recommend more CARES funding and CGM's,0
+244142,0,226,,457,ProdFailure,,,,84.23176112,,12,28.45387692,Other,257 I recommend more CARES funding and CGM's,0
+843365,0,226,419,703,ProdFailure,5,0,0,178.7866403,1,26,36.09869413,Software,258 I recommend more CARES funding and CGM's,1
+733046,0,226,,588,ProdFailure,,0,1,298.8195417,0,18,38.19502654,Other,259 I recommend more CARES funding and CGM's,1
+546920,0,226,2391,2644,ProdGlitch,5,0,0,244.1797304,2,50,36.70087056,Server,260 I recommend more CARES funding and CGM's,1
+323300,0,226,342,854,ProdFailure,9,0,0,277.8486564,0,18,38.0056832,Laptop,261 I recommend more CARES funding and CGM's,1
+881242,0,226,,554,ProdFailure,,0,0,299.9557961,0,18,39.0951957,Other,262 I recommend more CARES funding and CGM's,1
+121538,0,226,615,1017,ProdGlitch,17,0,0,622.3557677,1,24,21.68666861,Laptop,263 I recommend more CARES funding and CGM's,1
+174124,0,226,1310,1761,,26,,5,339.6770182,1,28,33.05755986,Desktop,264 I recommend more CARES funding and CGM's,0
+421103,0,227,732,929,ProdFailure,8,0,1,109.5702924,3,26,34.61442256,Laptop,265 I recommend more CARES funding and CGM's,0
+585996,0,227,913,983,ProdGlitch,7,,,,,,30.68101515,,266 I recommend more CARES funding and CGM's,1
+914960,0,227,,1322,ProdGlitch,1,0,0,309.4459491,3,20,29.37100228,Other,267 I recommend more CARES funding and CGM's,0
+458901,0,227,753,1061,ProdFailure,,0,0,175.3393762,1,24,38.25659362,Other,268 I recommend more CARES funding and CGM's,1
+425157,0,227,352,547,ProdGlitch,3,0,,134.108262,,11,24.52482499,Server,269 I recommend more CARES funding and CGM's,0
+120455,0,227,773,1062,ProdGlitch,14,0,0,161.646341,0,27,35.42092808,Desktop,270 I recommend more CARES funding and CGM's,1
+723915,0,227,935,991,ProdGlitch,6,,,,,,30.08034344,,271 I recommend more CARES funding and CGM's,0
+790574,0,227,934,1346,ProdFailure,,0,0,219.5706538,1,21,27.28456073,Laptop,272 I recommend more CARES funding and CGM's,1
+797690,0,227,362,884,ProdGlitch,24,0,0,255.0887578,0,7,26.86761738,Other,273 I recommend more CARES funding and CGM's,0
+865521,0,227,1280,1641,ProdFailure,7,0,0,175.8848079,0,37,21.2323579,Laptop,274 I recommend more CARES funding and CGM's,1
+823450,1,227,946,997,ProdFailure,3,0,0,129.5643008,0,16,37.96930454,Other,275 I recommend more CARES funding and CGM's,0
+707555,0,227,469,711,ProdFailure,6,0,0,57.88081593,2,19,35.55208815,Other,276 I recommend more CARES funding and CGM's,1
+807350,0,227,1552,1976,ProdFailure,15,,,103.7859943,0,24,29.54032204,Laptop,277 I recommend more CARES funding and CGM's,0
+515634,0,227,1084,1395,ProdGlitch,11,0,0,190.9727785,0,23,34.08001623,Laptop,278 I recommend more CARES funding and CGM's,1
+680657,0,227,,571,ProdFailure,,0,0,289.5456726,0,19,40.16294454,Other,279 I recommend more CARES funding and CGM's,1
+940765,0,228,765,1012,ProdFailure,20,0,0,188.0777225,0,12,40.35190229,Other,280 I recommend more CARES funding and CGM's,1
+622781,0,228,964,1223,ProdGlitch,8,0,0,120.9792917,2,24,29.80983516,Desktop,281 I recommend more CARES funding and CGM's,1
+46978,0,228,749,1097,ProdFailure,9,0,1,289.8223697,1,28,31.47990688,Desktop,282 I recommend more CARES funding and CGM's,1
+602877,0,228,767,1056,ProdFailure,1,,,225.3275079,5,23,40.69195368,Desktop,283 I recommend more CARES funding and CGM's,0
+177583,0,228,493,819,ProdFailure,4,0,0,264.9370662,2,25,32.01024461,Desktop,284 I recommend more CARES funding and CGM's,1
+374001,0,228,1270,1717,,25,,5,335.6156509,0,27,32.36504156,Desktop,285 I recommend more CARES funding and CGM's,1
+975522,0,228,391,844,ProdFailure,11,0,0,276.121973,0,19,38.96836653,Laptop,286 I recommend more CARES funding and CGM's,1
+461625,0,228,,1477,,,,,,,,16.17924959,,287 I recommend more CARES funding and CGM's,0
+39659,0,228,,976,ProdGlitch,8,0,0,177.5697403,1,16,40.77224843,Other,288 I recommend more CARES funding and CGM's,0
+21129,0,228,,749,ProdFailure,2,0,0,393.5104724,0,23,24.05020799,FARMING,289 I recommend more CARES funding and CGM's,0
+98628,0,228,,1468,,,,,,,,14.80008716,,290 I recommend more CARES funding and CGM's,1
+681211,0,228,1327,1703,ProdFailure,8,0,0,147.4149491,0,37,19.51853186,Laptop,291 I recommend more CARES funding and CGM's,1
+857825,0,228,527,813,,,,,,,,38.02467732,,292 I recommend more CARES funding and CGM's,0
+390904,0,228,,577,ProdFailure,,0,0,310.4829388,0,18,38.50570506,Other,293 I recommend more CARES funding and CGM's,1
+273667,0,228,646,960,ProdFailure,8,0,0,201.0682871,2,18,31.54182212,Desktop,294 I recommend more CARES funding and CGM's,0
+490135,0,228,526,963,ProdFailure,7,0,0,238.3801452,0,19,34.94670077,Other,295 I recommend more CARES funding and CGM's,1
+770365,0,228,627,1017,ProdGlitch,19,0,0,628.9819479,0,24,20.20030223,Laptop,296 I recommend more CARES funding and CGM's,1
+211841,1,228,1296,1674,ProdFailure,5,0,1,202.6038029,1,18,22.04393384,Laptop,297 I recommend more CARES funding and CGM's,1
+29439,0,229,,1480,,,,,,,,15.93805779,,298 I recommend more CARES funding and CGM's,1
+129167,0,229,1919,2329,ProdFailure,3,0,0,301.1384524,0,27,36.78846956,Laptop,299 I recommend more CARES funding and CGM's,0
+942191,0,229,648,922,ProdFailure,3,1,0,84.92588137,2,29,33.68409323,Other,300 I recommend more CARES funding and CGM's,0
+798918,0,229,907,1153,ProdFailure,24,,0,308.85054,1,42,38.79333433,Desktop,301 I recommend more CARES funding and CGM's,0
+565569,0,229,704,1038,ProdGlitch,13,0,0,149.9896104,0,27,33.76898573,Desktop,302 I recommend more CARES funding and CGM's,1
+105933,0,229,412,599,ProdFailure,0,0,0,111.2375972,0,17,20.9297294,Other,303 I recommend more CARES funding and CGM's,1
+511657,0,229,180,571,ProdFailure,26,0,1,213.0362848,0,24,25.54701032,Other,304 I recommend more CARES funding and CGM's,1
+180217,0,229,953,1230,ProdFailure,3,0,0,205.4415191,2,26,34.05349114,Server,305 I recommend more CARES funding and CGM's,1
+610881,0,229,,812,ProdFailure,3,0,0,405.8678483,0,22,23.54212992,FARMING,306 I recommend more CARES funding and CGM's,1
+889943,0,229,643,931,ProdFailure,6,,,181.8260463,,16,39.39135211,Software,307 I recommend more CARES funding and CGM's,1
+201776,0,229,597,975,ProdGlitch,16,0,0,627.6620795,0,24,22.11885209,Laptop,308 I recommend more CARES funding and CGM's,0
+260241,0,229,1360,1808,ProdFailure,21,0,0,240.3474711,0,24,41.59674747,Laptop,309 I recommend more CARES funding and CGM's,0
+41637,0,229,610,963,ProdFailure,5,0,0,228.898609,1,20,36.13495946,Other,310 I recommend more CARES funding and CGM's,0
+403133,1,229,673,950,ProdGlitch,3.9,0,2,122.7666667,0,32,,Desktop,311 I recommend more CARES funding and CGM's,1
+114416,0,229,650,880,ProdFailure,3,0,0,93.55292753,1,29,32.01107938,Other,312 I recommend more CARES funding and CGM's,0
+635979,0,229,1072,1388,ProdFailure,9,1,0,201.7857441,5,18,41.14075208,Desktop,313 I recommend more CARES funding and CGM's,1
+725179,1,229,1617,1936,ProdFailure,2,0,0,260.251081,0,27,30.27892939,Desktop,314 I recommend more CARES funding and CGM's,1
+176609,0,229,282,528,ProdFailure,14,0,0,109.3656846,1,25,30.58772816,Other,315 I recommend more CARES funding and CGM's,0
+938512,0,229,411,868,ProdGlitch,25,0,0,267.1326089,0,7,24.38038951,Other,316 I recommend more CARES funding and CGM's,0
+404681,0,229,1317,1746,,24,,4,329.647795,1,28,32.36162706,Desktop,317 I recommend more CARES funding and CGM's,1
+972387,0,229,411,810,ProdFailure,8,0,0,276.0876189,0,19,38.50140658,Laptop,318 I recommend more CARES funding and CGM's,1
+16581,0,229,882,1031,ProdGlitch,8,,,,,,31.0726936,,319 I recommend more CARES funding and CGM's,0
+107404,0,229,508,742,ProdFailure,5,0,0,72.00450998,1,19,34.9570299,Other,320 I recommend more CARES funding and CGM's,1
+763989,0,230,1084,1558,ProdFailure,16,0,0,170.2231566,0,26,35.059327,Desktop,321 I recommend more CARES funding and CGM's,1
+109234,0,230,,563,ProdFailure,,0,1,314.2737125,0,19,37.74372511,Other,322 I recommend more CARES funding and CGM's,0
+385310,0,230,586,1021,ProdGlitch,18,0,0,629.0957663,0,23,22.82560712,Laptop,323 I recommend more CARES funding and CGM's,0
+194642,0,230,,1503,,,,,,,,17.12566043,,324 I recommend more CARES funding and CGM's,1
+103084,0,230,917,1407,ProdFailure,,0,0,203.9066776,0,21,27.69223742,Laptop,325 I recommend more CARES funding and CGM's,0
+844869,0,230,628,909,ProdFailure,4,,,179.8468627,,16,38.63094673,Software,326 I recommend more CARES funding and CGM's,1
+498798,0,230,765,1113,ProdFailure,8,0,1,301.2329108,2,28,30.34670611,Desktop,327 I recommend more CARES funding and CGM's,0
+121826,0,230,682,899,ProdFailure,8,1,0,140.7144149,4,25,33.6949437,Laptop,328 I recommend more CARES funding and CGM's,0
+352928,1,230,585,693,,4,0,2,110.4144797,2,33,133.5282704,Other,329 I recommend more CARES funding and CGM's,0
+365942,0,230,,468,ProdFailure,,,,77.55320305,,13,25.61429467,Other,330 I recommend more CARES funding and CGM's,0
+119147,0,230,726,1054,ProdFailure,0,,,230.0750645,4,23,43.51909332,Desktop,331 I recommend more CARES funding and CGM's,1
+362662,0,230,762,1843,,12,0,0,379.3499549,0,16,32.04036608,Other,332 I recommend more CARES funding and CGM's,1
+328046,0,230,481,650,ProdFailure,26,0,0,302.849884,2,32,33.87069555,Other,333 I recommend more CARES funding and CGM's,1
+70797,1,230,726,1091,ProdFailure,2,0,0,177.611648,2,22,48.27759122,Laptop,334 I recommend more CARES funding and CGM's,1
+438427,1,230,1638,2165,ProdGlitch,3.5,,,,,,,Server,335 I recommend more CARES funding and CGM's,1
+296396,0,230,1312,1633,ProdFailure,7,1,0,215.0666667,1,20,,Other,336 I recommend more CARES funding and CGM's,0
+124769,0,230,2130,2800,ProdGlitch,7,,5,468.8666667,,56,,Laptop,337 I recommend more CARES funding and CGM's,0
+218828,0,230,426,695,ProdFailure,10,0,0,119.7,1,20,,Other,338 I recommend more CARES funding and CGM's,0
+711220,1,230,560,920,ProdFailure,8,1,4,69.13333333,2,27,,Other,339 I recommend more CARES funding and CGM's,0
+118942,1,230,470,780,ProdFailure,17.8,2,1,100.4666667,0,28,,Other,340 I recommend more CARES funding and CGM's,0
+232649,1,230,320,550,ProdFailure,0.4,0,0,211.0333333,0,23,,Other,341 I recommend more CARES funding and CGM's,1
+889203,0,230,480,647,ProdFailure,4,0,0,160.6060458,1,26,33.6299233,Software,342 I recommend more CARES funding and CGM's,0
+855211,0,230,329,520,ProdGlitch,6,0,,123.0672167,,10,24.02181712,Server,343 I recommend more CARES funding and CGM's,0
+896192,0,230,,499,ProdFailure,,,,96.75696905,,13,27.44124241,Other,344 I recommend more CARES funding and CGM's,1
+767521,0,230,719,1017,ProdGlitch,5,0,0,214.3892524,0,13,29.04596406,Other,345 I recommend more CARES funding and CGM's,0
+400142,0,231,953,1150,ProdFailure,24,0,0,253.3293713,0,26,39.81680057,Other,346 I recommend more CARES funding and CGM's,1
+543643,0,231,716,1014,ProdFailure,1,,,230.3616162,5,24,39.87270885,Desktop,347 I recommend more CARES funding and CGM's,0
+356562,0,231,615,963,ProdFailure,1,0,0,160.3831682,1,21,35.1122412,Software,348 I recommend more CARES funding and CGM's,1
+438926,0,231,1419,1797,ProdGlitch,6,0,0,328.3984932,0,16,43.91004585,Desktop,349 I recommend more CARES funding and CGM's,1
+438668,0,231,758,1834,,9,0,0,377.29104,0,17,31.43531612,Other,350 I recommend more CARES funding and CGM's,0
+876878,0,231,938,1357,ProdGlitch,5,0,0,155.0253817,0,31,34.64492165,Laptop,351 I recommend more CARES funding and CGM's,0
+613194,0,231,834,1075,ProdFailure,24,,0,314.066374,1,43,38.04372621,Desktop,352 I recommend more CARES funding and CGM's,1
+661231,0,231,1338,1741,,26,,3,332.4098399,0,28,30.76863769,Desktop,353 I recommend more CARES funding and CGM's,1
+243360,0,231,428,639,ProdFailure,5,0,0,182.93212,1,26,35.58378924,Software,354 I recommend more CARES funding and CGM's,0
+662768,0,231,727,1857,,10,0,0,362.1817044,1,16,31.86715522,Other,355 I recommend more CARES funding and CGM's,0
+503236,0,231,1094,1561,ProdFailure,15,0,0,186.2019963,0,25,33.79421161,Desktop,356 I recommend more CARES funding and CGM's,0
+244599,0,231,646,1001,ProdFailure,2,0,0,156.675375,0,21,34.00023607,Software,357 I recommend more CARES funding and CGM's,0
+298027,0,231,2359,2667,ProdGlitch,5,1,0,242.6148614,2,51,36.88704865,Server,358 I recommend more CARES funding and CGM's,0
+711799,0,232,1845,2375,ProdFailure,2,0,0,291.6334148,0,26,39.48391375,Laptop,359 I recommend more CARES funding and CGM's,0
+180172,0,232,628,993,ProdFailure,3,0,0,166.8610989,1,21,36.07127157,Software,360 I recommend more CARES funding and CGM's,1
+665726,0,232,963,1350,ProdFailure,,0,0,217.4805423,0,20,26.79993001,Laptop,361 I recommend more CARES funding and CGM's,1
+231554,0,232,1129,1590,ProdFailure,16,0,0,189.8390087,0,25,33.49396616,Desktop,362 I recommend more CARES funding and CGM's,0
+630735,1,232,1293,1717,ProdFailure,0,0,0,328.5141214,0,30,40.04844004,Laptop,363 I recommend more CARES funding and CGM's,1
+498581,0,232,960,1400,ProdFailure,21,0,0,162.6404305,0,24,39.20510043,Laptop,364 I recommend more CARES funding and CGM's,0
+318025,1,232,145,815,ProdFailure,7,0,3,272.938299,0,23,47.12058049,Other,365 I recommend more CARES funding and CGM's,1
+750837,0,232,409,816,ProdFailure,6,0,0,274.0020796,0,19,40.10944251,Laptop,366 I recommend more CARES funding and CGM's,1
+159831,0,232,1318,1711,ProdFailure,6,0,0,197.768728,0,37,19.77885179,Laptop,367 I recommend more CARES funding and CGM's,0
+132676,0,232,1445,1766,ProdFailure,5,,,179.239077,5,42,40.82316043,Laptop,368 I recommend more CARES funding and CGM's,1
+733211,0,233,824,1103,ProdFailure,,0,0,174.2399806,2,25,37.91287247,Other,369 I recommend more CARES funding and CGM's,1
+642404,0,233,1031,1350,ProdFailure,9,1,0,188.9398399,5,18,40.67081708,Desktop,370 I recommend more CARES funding and CGM's,1
+627554,0,233,811,1061,ProdFailure,7,0,0,288.3727394,1,28,33.27141336,Desktop,371 I recommend more CARES funding and CGM's,0
+716410,0,233,653,899,ProdFailure,2,0,0,89.7941492,1,30,33.98609881,Other,372 I recommend more CARES funding and CGM's,1
+52356,0,233,1438,1770,ProdGlitch,8,0,0,320.9234361,0,16,44.75295886,Desktop,373 I recommend more CARES funding and CGM's,1
+71231,1,233,360,,ProdFailure,19,4,0,113.5666667,2,20,,Other,374 I recommend more CARES funding and CGM's,0
+415485,1,233,840,1074,ProdFailure,2,0,1,153.2333333,6,23,,Server,375 I recommend more CARES funding and CGM's,0
+350327,0,233,614,1028,ProdGlitch,18,0,0,649.7471044,1,24,20.87256027,Laptop,376 I recommend more CARES funding and CGM's,0
+129906,1,233,717,1000,ProdFailure,6,0,7,122.7994431,0,21,34.53043859,Laptop,377 I recommend more CARES funding and CGM's,1
+954995,0,233,277,501,ProdFailure,16,0,0,136.401603,1,24,28.0529211,Other,378 I recommend more CARES funding and CGM's,0
+705786,1,233,1037,1326,ProdFailure,1,0,,120.3479666,0,19,203.3121487,FARMING,379 I recommend more CARES funding and CGM's,1
+256935,0,233,919,1358,ProdFailure,,0,1,203.0716875,0,20,27.83335613,Laptop,380 I recommend more CARES funding and CGM's,0
+343794,0,233,888,1046,ProdGlitch,8,,,,,,28.01323884,,381 I recommend more CARES funding and CGM's,1
+412699,0,233,898,1362,ProdFailure,,0,0,210.0161196,0,21,29.77994226,Laptop,382 I recommend more CARES funding and CGM's,1
+890210,0,234,643,957,ProdGlitch,13,0,0,128.2392225,0,13,35.15764561,Software,383 I recommend more CARES funding and CGM's,0
+129718,0,234,813,1050,ProdFailure,,0,0,186.8909246,1,24,37.88976871,Other,384 I recommend more CARES funding and CGM's,1
+462477,0,234,911,995,ProdGlitch,8,,,,,,28.97862141,,385 I recommend more CARES funding and CGM's,1
+359281,0,234,722,946,ProdFailure,2,0,0,105.9992656,1,29,31.8406351,Other,386 I recommend more CARES funding and CGM's,0
+444437,0,234,894,1065,ProdGlitch,6,,,,,,29.37165152,,387 I recommend more CARES funding and CGM's,0
+518778,0,234,485,689,ProdFailure,6,0,0,172.8107266,1,27,34.4567622,Software,388 I recommend more CARES funding and CGM's,1
+619798,0,234,1257,1657,ProdFailure,6,0,0,195.0845391,0,38,20.73303164,Laptop,389 I recommend more CARES funding and CGM's,1
+411787,0,234,978,1201,ProdFailure,2,0,0,200.5757523,1,26,36.39872872,Server,390 I recommend more CARES funding and CGM's,1
+633388,0,234,356,611,ProdFailure,,0,0,204.6427862,0,13,41.11515894,Other,391 I recommend more CARES funding and CGM's,1
+581513,0,234,892,1196,ProdFailure,3,0,0,221.6813833,1,26,34.5562014,Server,392 I recommend more CARES funding and CGM's,0
+599269,0,234,909,1168,ProdFailure,24,0,0,245.8978616,1,27,40.85742704,Other,393 I recommend more CARES funding and CGM's,1
+581340,0,234,457,661,ProdFailure,26,0,0,284.7815723,2,32,35.9367948,Other,394 I recommend more CARES funding and CGM's,1
+876700,0,235,952,1222,ProdGlitch,9,0,0,118.6161343,1,23,30.44727454,Desktop,395 I recommend more CARES funding and CGM's,1
+597724,0,235,,902,ProdGlitch,9,0,0,169.0149735,0,16,38.69873592,Other,396 I recommend more CARES funding and CGM's,1
+75096,0,235,902,1193,ProdFailure,22,0,0,239.2596449,1,26,41.33669648,Other,397 I recommend more CARES funding and CGM's,0
+191028,1,235,524,774,ProdFailure,16,0,0,,0,0,33.56876627,Other,398 I recommend more CARES funding and CGM's,1
+898508,0,235,189,516,ProdFailure,26,0,1,206.765495,0,24,27.55140882,Other,399 I recommend more CARES funding and CGM's,1
+550445,0,235,449,701,ProdFailure,6,0,0,164.9639399,1,26,35.78815771,Software,400 I recommend more CARES funding and CGM's,0
+41328,0,235,680,933,ProdFailure,6,0,0,191.1124423,2,18,32.13282224,Desktop,401 I recommend more CARES funding and CGM's,0
+689593,0,235,1331,1689,ProdFailure,8,1,0,214.2845994,0,19,36.64262904,Other,402 I recommend more CARES funding and CGM's,1
+919221,0,235,482,819,ProdFailure,6,0,0,248.8600943,2,25,32.46730089,Desktop,403 I recommend more CARES funding and CGM's,1
+321197,1,235,548,870,ProdFailure,3.5,0,1,223.2,0,17,,Other,404 I recommend more CARES funding and CGM's,1
+868894,1,235,,1431,ProdFailure,10,,,,,,35.73356733,Software,405 I recommend more CARES funding and CGM's,0
+13676,0,235,,1312,ProdGlitch,0,0,0,318.8471298,3,21,31.08415579,Other,406 I recommend more CARES funding and CGM's,1
+708015,0,235,1463,1794,ProdFailure,6,,,195.1781446,4,43,39.94505447,Laptop,407 I recommend more CARES funding and CGM's,0
+86175,0,235,757,1021,ProdFailure,2,,,231.4343159,5,23,42.17978642,Desktop,408 I recommend more CARES funding and CGM's,1
+249515,0,235,,596,ProdFailure,26,0,0,127.8,0,9,,Other,409 I recommend more CARES funding and CGM's,1
+761853,0,235,901,1417,ProdFailure,23,1,0,158.9968245,0,25,40.33195033,Laptop,410 I recommend more CARES funding and CGM's,0
+639791,0,235,378,608,ProdFailure,2,0,0,110.0572738,0,17,19.26843955,Other,411 I recommend more CARES funding and CGM's,0
+811035,0,235,655,871,ProdFailure,3,0,0,83.23800004,2,30,32.03167837,Other,412 I recommend more CARES funding and CGM's,1
+375031,0,235,627,1119,ProdFailure,15,0,3,282.9760159,0,36,27.14820546,Laptop,413 I recommend more CARES funding and CGM's,1
+726119,0,235,1327,2857,ProdGlitch,4,0,0,213.3929949,0,14,31.23611381,Desktop,414 I recommend more CARES funding and CGM's,0
+625931,0,235,941,971,ProdFailure,1,1,0,116.8186482,0,20,35.86611643,Laptop,415 I recommend more CARES funding and CGM's,0
+790552,0,235,,662,ProdFailure,24,0,1,122.1475515,1,8,20.17202126,Other,416 I recommend more CARES funding and CGM's,1
+774872,0,235,557,890,ProdFailure,4,0,0,273.6743799,1,25,33.50940904,Desktop,417 I recommend more CARES funding and CGM's,1
+441184,0,235,1902,2336,ProdFailure,3,0,0,285.3312927,0,27,39.91648297,Laptop,418 I recommend more CARES funding and CGM's,0
+890721,0,235,1476,1182,,4,0,0,103.6727859,2,34,30.36171141,Laptop,419 I recommend more CARES funding and CGM's,0
+430664,0,235,861,1389,ProdFailure,13,0,0,110.0541983,3,15,41.8416909,Other,420 I recommend more CARES funding and CGM's,0
+278620,0,235,624,972,ProdFailure,1,0,0,152.8327542,0,21,34.53125999,Software,421 I recommend more CARES funding and CGM's,1
+108000,1,235,,1169,ProdGlitch,,0,1,143.4146448,0,10,35.06031985,Other,422 I recommend more CARES funding and CGM's,0
+965924,0,236,707,1835,,11,0,0,367.0984875,1,17,33.78919233,Other,423 I recommend more CARES funding and CGM's,0
+101008,0,236,307,572,ProdFailure,13,0,0,104.3956905,2,24,31.12039863,Other,424 I recommend more CARES funding and CGM's,1
+465785,0,236,878,1390,ProdFailure,10,0,0,112.9125146,2,15,38.50589728,Other,425 I recommend more CARES funding and CGM's,0
+233804,0,236,1366,1724,ProdFailure,6,0,0,226.0402946,0,20,36.97693039,Other,426 I recommend more CARES funding and CGM's,1
+552217,0,236,,682,ProdFailure,26,0,0,119.5859013,0,8,20.81825554,Other,427 I recommend more CARES funding and CGM's,1
+860534,0,236,504,702,ProdFailure,24,0,0,312.7384712,4,31,35.77167592,Other,428 I recommend more CARES funding and CGM's,0
+694577,0,236,698,1892,,11,0,0,357.8050619,0,17,30.56428034,Other,429 I recommend more CARES funding and CGM's,1
+759420,0,236,364,801,ProdFailure,10,0,0,289.7015389,0,19,39.92995455,Laptop,430 I recommend more CARES funding and CGM's,1
+954034,0,236,573,1054,ProdFailure,14,0,3,276.1823627,0,35,29.2830325,Laptop,431 I recommend more CARES funding and CGM's,1
+866179,0,236,949,1016,ProdFailure,1,1,0,125.7017044,0,19,33.22431913,Laptop,432 I recommend more CARES funding and CGM's,1
+636000,0,236,1410,1750,ProdFailure,2,0,0,192.7666667,0,35,,Other,433 I recommend more CARES funding and CGM's,0
+577345,0,236,826,1142,ProdFailure,,0,0,186.1563472,2,25,37.9438682,Other,434 I recommend more CARES funding and CGM's,1
+52666,0,236,964,1252,ProdGlitch,11,0,0,127.359922,1,23,30.98553896,Desktop,435 I recommend more CARES funding and CGM's,1
+151309,0,236,1262,1696,ProdFailure,6,0,0,176.7491631,0,38,17.62092021,Laptop,436 I recommend more CARES funding and CGM's,0
+671552,0,236,824,1064,ProdFailure,,0,0,169.8052711,0,24,39.48884444,Other,437 I recommend more CARES funding and CGM's,0
+363614,0,236,1402,1825,ProdFailure,21,0,0,224.9413467,0,24,41.8717558,Laptop,438 I recommend more CARES funding and CGM's,1
+259230,0,236,560,836,ProdFailure,5,0,0,267.7555345,2,25,32.20078133,Desktop,439 I recommend more CARES funding and CGM's,0
+824161,0,237,761,1009,ProdFailure,17,0,0,180.731154,1,13,41.52602645,Other,440 I recommend more CARES funding and CGM's,0
+76207,0,237,,788,ProdFailure,4,0,0,408.1876462,0,23,24.20093583,FARMING,441 I recommend more CARES funding and CGM's,0
+975179,0,237,575,1016,ProdGlitch,19,0,0,648.3284926,0,23,22.84647896,Laptop,442 I recommend more CARES funding and CGM's,0
+795829,1,237,437,751,ProdFailure,6,0,0,50.71753483,2,18,37.10325125,Software,443 I recommend more CARES funding and CGM's,0
+167141,0,237,,788,ProdFailure,4,0,0,412.0205467,0,24,25.63726309,FARMING,444 I recommend more CARES funding and CGM's,1
+148020,0,237,1386,1865,ProdFailure,20,0,0,225.8977256,0,24,42.76682961,Laptop,445 I recommend more CARES funding and CGM's,1
+141825,0,237,1443,1809,ProdFailure,5,,,175.8153754,5,43,40.31579003,Laptop,446 I recommend more CARES funding and CGM's,1
+514895,0,237,,466,ProdFailure,,,,85.1283538,,12,24.99135942,Other,447 I recommend more CARES funding and CGM's,0
+161165,0,237,469,751,ProdFailure,10,0,0,119.2312044,1,19,43.829588,Other,448 I recommend more CARES funding and CGM's,1
+866889,0,237,937,980,ProdGlitch,8,,,,,,30.02008799,,449 I recommend more CARES funding and CGM's,1
+761029,0,237,629,992,ProdGlitch,15,0,0,145.3552803,0,14,36.03276029,Software,450 I recommend more CARES funding and CGM's,0
+866353,1,237,760,1060,ProdFailure,2.6,1,0,138.9666667,2,38,,FARMING,451 I recommend more CARES funding and CGM's,1
+321857,0,237,829,1068,ProdFailure,,0,0,177.0176744,2,24,40.99520822,Other,452 I recommend more CARES funding and CGM's,1
+608776,0,237,871,1404,ProdFailure,22,1,0,169.2836314,1,25,40.98061565,Laptop,453 I recommend more CARES funding and CGM's,1
+121927,0,237,1047,1439,ProdGlitch,,,,,,,36.76101419,,454 I recommend more CARES funding and CGM's,0
+937664,0,237,188,555,ProdFailure,26,0,1,203.8609299,0,25,26.62907739,Other,455 I recommend more CARES funding and CGM's,0
+704983,0,237,580,979,ProdFailure,1,0,0,160.0582364,1,21,34.35546078,Software,456 I recommend more CARES funding and CGM's,0
+336018,0,238,743,1861,,10,0,0,363.1401917,1,16,30.27099531,Other,457 I recommend more CARES funding and CGM's,1
+711104,0,238,,717,ProdGlitch,6,0,0,119.7119548,2,5,19.62452779,Software,458 I recommend more CARES funding and CGM's,1
+425089,0,238,763,1103,ProdFailure,7,0,0,275.9553562,2,29,29.71360104,Desktop,459 I recommend more CARES funding and CGM's,1
+738670,0,238,452,689,ProdFailure,6,0,0,77.22882195,1,19,35.5214873,Other,460 I recommend more CARES funding and CGM's,0
+477299,1,238,196,773,ProdFailure,15,0,6,173.4666667,0,19,,Laptop,461 I recommend more CARES funding and CGM's,0
+474618,0,238,1882,2338,ProdFailure,2,0,0,307.5727526,1,27,36.6907244,Laptop,462 I recommend more CARES funding and CGM's,1
+187150,1,238,557,879,ProdGlitch,1,0,0,56.6670994,0,13,64.77572776,Other,463 I recommend more CARES funding and CGM's,0
+335058,1,238,91,419,ProdFailure,28,0,2,120.7333333,1,16,,Other,464 I recommend more CARES funding and CGM's,0
+247699,0,238,468,681,ProdFailure,8,0,0,59.40577506,1,18,35.69663623,Other,465 I recommend more CARES funding and CGM's,0
+93378,0,238,,556,ProdFailure,,0,1,308.4251258,0,18,37.65407524,Other,466 I recommend more CARES funding and CGM's,1
+708726,0,238,1015,1476,ProdGlitch,10,0,0,161.2557418,1,23,32.71942124,Laptop,467 I recommend more CARES funding and CGM's,0
+873894,0,238,443,672,ProdFailure,6,0,0,75.81397134,2,19,36.52956948,Other,468 I recommend more CARES funding and CGM's,0
+245380,0,239,75,265,ProdFailure,17,3,0,126.8333333,2,19,,Other,469 I recommend more CARES funding and CGM's,0
+255873,0,239,2368,2670,ProdGlitch,7,0,0,252.0735449,1,50,38.07409059,Server,470 I recommend more CARES funding and CGM's,1
+228426,0,239,,630,ProdFailure,,0,0,313.8097259,0,19,37.51332405,Other,471 I recommend more CARES funding and CGM's,1
+375163,0,239,215,498,ProdFailure,25,0,0,300.2963125,,12,30.20398928,Other,472 I recommend more CARES funding and CGM's,0
+846016,0,239,904,1360,ProdFailure,,0,1,207.784271,0,21,30.54921583,Laptop,473 I recommend more CARES funding and CGM's,0
+360418,0,239,706,957,ProdGlitch,11,0,0,138.1673596,0,13,38.56120628,Software,474 I recommend more CARES funding and CGM's,1
+57408,0,239,160,311,ProdFailure,17,2,0,123.3686461,1,19,26.71625685,Other,475 I recommend more CARES funding and CGM's,1
+249989,0,239,950,1345,ProdFailure,,0,0,194.2510061,0,20,27.15706127,Laptop,476 I recommend more CARES funding and CGM's,1
+29556,0,239,319,579,ProdFailure,,0,0,226.2432432,0,12,38.67184311,Other,477 I recommend more CARES funding and CGM's,0
+538011,1,239,,1057,ProdFailure,0.8,,,,,,,Other,478 I recommend more CARES funding and CGM's,0
+208148,0,239,804,1081,ProdFailure,17,0,0,211.9232754,0,13,41.4948398,Other,479 I recommend more CARES funding and CGM's,1
+772924,0,239,278,434,ProdFailure,27,0,0,307.6242388,,12,31.91370468,Other,480 I recommend more CARES funding and CGM's,0
+540399,0,239,850,1007,ProdGlitch,9,,,,,,29.50851727,,481 I recommend more CARES funding and CGM's,1
+764626,0,239,902,1207,ProdFailure,3,0,0,194.9872525,1,26,35.40605965,Server,482 I recommend more CARES funding and CGM's,0
+697448,0,239,552,923,ProdFailure,7,0,0,241.0836493,1,19,37.47975712,Other,483 I recommend more CARES funding and CGM's,1
+753610,0,239,,622,ProdFailure,26,0,0,127.024625,0,8,20.40782558,Other,484 I recommend more CARES funding and CGM's,1
+49819,0,239,1403,1835,ProdGlitch,8,0,0,322.7881144,0,17,45.41317756,Desktop,485 I recommend more CARES funding and CGM's,1
+367585,0,239,878,1165,ProdFailure,23,,0,314.3944934,0,42,37.98813172,Desktop,486 I recommend more CARES funding and CGM's,0
+794223,0,239,,1517,,,,,,,,16.42639471,,487 I recommend more CARES funding and CGM's,0
+384493,0,240,434,683,ProdFailure,25,0,0,302.772262,2,31,34.87185516,Other,488 I recommend more CARES funding and CGM's,0
+779454,0,240,960,1224,ProdGlitch,10,0,0,127.741782,1,24,33.60803731,Desktop,489 I recommend more CARES funding and CGM's,0
+569097,0,240,312,506,ProdGlitch,3,1,,135.1985187,,11,25.35716493,Server,490 I recommend more CARES funding and CGM's,0
+847245,0,240,1449,1805,ProdFailure,6,,,193.1196811,5,43,39.59359522,Laptop,491 I recommend more CARES funding and CGM's,1
+578234,0,240,439,861,ProdGlitch,24,0,0,258.3035939,0,7,26.61774876,Other,492 I recommend more CARES funding and CGM's,1
+265049,1,240,887,1169,ProdFailure,2,0,0,171.5062567,5,23,56.96183857,Server,493 I recommend more CARES funding and CGM's,1
+191148,1,240,195,380,ProdFailure,,0,1,198.9,,17,,Other,494 I recommend more CARES funding and CGM's,1
+825024,0,240,169,450,ProdFailure,25,0,0,118.6666667,1,11,,Other,495 I recommend more CARES funding and CGM's,0
+889457,0,240,1370,2049,ProdGlitch,5,0,0,189.7,1,28,,Laptop,496 I recommend more CARES funding and CGM's,0
+439414,0,240,1141,1500,ProdFailure,4,0,0,289.1333333,0,25,,Desktop,497 I recommend more CARES funding and CGM's,1
+506723,0,240,593,880,ProdFailure,16,0,0,97.93333333,1,17,,Other,498 I recommend more CARES funding and CGM's,0
+40225,1,240,350,,ProdFailure,3,1,0,177.5,0,16,,Server,499 I recommend more CARES funding and CGM's,0
+357352,1,240,1360,,ProdFailure,3,1,6,303.2942857,1,27,,Laptop,500 I recommend more CARES funding and CGM's,1
+357051,1,240,186,488,ProdGlitch,3,0,0,65.96666667,3,12,,Other,501 I recommend more CARES funding and CGM's,1
+684089,0,240,2395,2664,ProdGlitch,7,0,0,243.7324175,3,50,35.87195895,Server,502 I recommend more CARES funding and CGM's,1
+153333,0,240,1114,1637,ProdFailure,15,0,0,185.8020505,0,25,32.22967397,Desktop,503 I recommend more CARES funding and CGM's,0
+51023,0,240,175,503,ProdFailure,23,0,0,135.7640508,0,11,22.9810051,Other,504 I recommend more CARES funding and CGM's,0
+556476,1,241,1641,2251,ProdGlitch,2,,,,,,31.56422692,Server,505 I recommend more CARES funding and CGM's,1
+55410,0,241,570,920,ProdFailure,7,0,0,230.0597297,0,19,35.89670864,Other,506 I recommend more CARES funding and CGM's,0
+749360,0,241,774,1130,ProdFailure,10,0,1,124.7666667,0,19,,Laptop,507 I recommend more CARES funding and CGM's,0
+370101,1,241,309,580,ProdFailure,11,0,4,36.5,0,12,,Desktop,508 I recommend more CARES funding and CGM's,0
+694117,0,241,1846,2387,ProdFailure,2,0,0,317.6925568,0,26,37.78203628,Laptop,509 I recommend more CARES funding and CGM's,1
+120301,0,241,618,970,ProdFailure,6,0,0,222.6265908,1,19,34.68253701,Other,510 I recommend more CARES funding and CGM's,0
+133115,0,241,800,1020,ProdFailure,18,1,0,196.2531041,1,12,39.7589325,Other,511 I recommend more CARES funding and CGM's,1
+66983,0,241,1044,1613,ProdFailure,14,0,0,195.6423332,0,25,34.54080952,Desktop,512 I recommend more CARES funding and CGM's,0
+45099,0,241,955,1122,ProdFailure,22,0,0,243.3497326,0,28,39.08269663,Other,513 I recommend more CARES funding and CGM's,1
+128430,0,241,575,907,ProdFailure,8,0,0,236.9619925,1,19,37.93487786,Other,514 I recommend more CARES funding and CGM's,1
+439883,0,241,,494,ProdFailure,,,,83.09972613,,13,26.14897018,Other,515 I recommend more CARES funding and CGM's,1
+664130,1,242,102,,ProdFailure,24.5,0,1,216.1333333,4,32,,Other,516 I recommend more CARES funding and CGM's,1
+238378,0,242,459,702,ProdFailure,25,0,0,303.7624695,3,32,35.22386162,Other,517 I recommend more CARES funding and CGM's,1
+304875,0,242,914,1418,ProdFailure,21,1,0,163.1743772,0,25,42.06098177,Laptop,518 I recommend more CARES funding and CGM's,1
+866239,0,242,925,1213,ProdGlitch,9,0,0,117.0455007,1,24,30.48278003,Desktop,519 I recommend more CARES funding and CGM's,1
+808033,0,242,2421,2666,ProdGlitch,6,1,0,243.0031287,3,51,36.57538774,Server,520 I recommend more CARES funding and CGM's,0
+877109,0,242,497,674,ProdFailure,6,0,0,68.93111023,2,18,36.46436586,Other,521 I recommend more CARES funding and CGM's,0
+577291,1,242,1210,1629,ProdFailure,13,1,1,151.9333333,1,35,,Server,522 I recommend more CARES funding and CGM's,1
+872003,1,242,375,,,4,0,0,123.8,0,14,,Laptop,523 I recommend more CARES funding and CGM's,1
+923614,1,242,398,,ProdFailure,3,1,0,184.7251127,0,16,51.63038059,Server,524 I recommend more CARES funding and CGM's,1
+748825,0,242,684,915,ProdFailure,16,0,0,88.66520126,0,17,32.52309222,Other,525 I recommend more CARES funding and CGM's,1
+783367,0,242,227,476,ProdFailure,23,0,0,126.9226912,1,10,23.04094471,Other,526 I recommend more CARES funding and CGM's,0
+975296,0,242,632,893,ProdFailure,15,0,0,84.66879155,0,16,35.60488671,Other,527 I recommend more CARES funding and CGM's,0
+207185,0,242,1509,1832,ProdFailure,1,0,0,205.776802,0,34,39.65633406,Other,528 I recommend more CARES funding and CGM's,1
+170162,0,242,906,1166,ProdFailure,2,0,0,226.1163866,1,27,34.49993837,Server,529 I recommend more CARES funding and CGM's,0
 369506,0,242,1040,1582,ProdFailure,14,0,0,175.6220829,0,25,33.99242445,Desktop,Razr Battery - Good buy.,1
 620120,0,243,1420,1750,ProdFailure,6,0,0,323.6666667,0,35,,Laptop,Keep up the good work Amazon!!,1
 43687,0,243,709,983,ProdFailure,9,1,0,126.2435974,3,26,36.37253142,Laptop,They refuse to refund or replace.,0
